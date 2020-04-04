@@ -51,11 +51,27 @@
 
 ## 0.30.7(2020/3)
 ### 自分の成長戦略で進められたこと
+特に進展なし。
 
 ### ブログ
+７本かいた.PV数は停滞中。。
+
+* [Personal Health Dashboard の通知を Slackに投稿する](https://sadayoshi-tada.hatenablog.com/entry/2020/03/08/161331)
+* [【本編一部公開！】『実践 AWS CDK - TypeScript でインフラもアプリも！』を技術書典 応援祭で公開しました！](https://sadayoshi-tada.hatenablog.com/entry/2020/03/09/080000)
+* [プロキシ環境で AWS CLI の STS コマンドタイムアウトを回避する方法](https://sadayoshi-tada.hatenablog.com/entry/2020/03/16/080000)
+* [プロキシ環境で 別アカウントの S3 へ VPC エンドポイント経由でアクセスする](https://sadayoshi-tada.hatenablog.com/entry/2020/03/22/223124)
+* [『Amazon Builder's Library』オンライン輪読会 第7回開催レポート](https://sadayoshi-tada.hatenablog.com/entry/2020/03/23/080000)
+* [AWS WAF Classic に Rule で複数条件を指定するとどんな挙動を取るかを確認した](https://sadayoshi-tada.hatenablog.com/entry/2020/03/29/100000)
+* [Python でクラウドの構成図を作ろう！『Diagrams』でね](https://sadayoshi-tada.hatenablog.com/entry/2020/03/31/090000)
 
 ### 仕事
+* 自分の計画がずさんでうまく進行していなかったプロジェクトが終わりを迎えた
+  * チーム全体に影響が波及したので以後気をつける
+* 反省点は、自分たちがやることと他の人にやってもらうことをタスク分解して、計画を立てる
+  * 逆算で計画を立てる
 
 ### 読んだ本
+なし
 
 ### その他
+何かやる時はタスクを分解して、計画を立ててやってみる。
