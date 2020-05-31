@@ -2,21 +2,21 @@ https://qiita.com/tmknom/items/67dbfcf5194aee5c6e61
 
 # コンピュータシステム
 [ ] * [Raspberry Piで学ぶコンピュータアーキテクチャ](https://www.amazon.co.jp/dp/4873118654/)
-[ ] * [プログラムはなぜ動くのか](https://www.amazon.co.jp/dp/4822283151/)
-[ ] * [コンピュータシステムの理論と実装]()
-[ ] * [コンピュータの構成と設計 上／下]()
-[ ] * [モダンオペレーティングシステム]()
+[x] * [プログラムはなぜ動くのか](https://www.amazon.co.jp/dp/4822283151/)
+[ ] * [コンピュータシステムの理論と実装](https://www.amazon.co.jp/dp/4873117127/)
+[ ] * [コンピュータの構成と設計 上／下](https://www.amazon.co.jp/dp/4822298426/)
+[ ] * [モダンオペレーティングシステム](https://www.amazon.co.jp/dp/4894715376/)
 # Linux/Unix
 [ ] * [[試して理解]Linuxの仕組み](https://www.amazon.co.jp/dp/477419607X/)
 [ ] * [詳解 Linuxカーネル](https://www.amazon.co.jp/dp/487311313X/)
-[ ] * [Linuxシステム[実践]入門]()
-[ ] * [詳解 システム・パフォーマンス]()
-[ ] * [Unixシステムパフォーマンスチューニング]()
+[x] * [Linuxシステム[実践]入門](https://www.amazon.co.jp/dp/4774158135/)
+[ ] * [詳解 システム・パフォーマンス](https://www.amazon.co.jp/dp/4873117909/)
+[ ] * [Unixシステムパフォーマンスチューニング](https://www.amazon.co.jp/dp/4873111528/)
 # ネットワーク
 [ ] * [マスタリングTCP/IP](https://www.amazon.co.jp/dp/4274224473/)
 [ ] * [DNSがよくわかる教科書](https://www.amazon.co.jp/dp/479739448X/)
-[ ] * [コンピュータネットワーク]()
-[ ] * [詳解TCP/IP]()
+[ ] * [コンピュータネットワーク](https://www.amazon.co.jp/dp/482228476X/)
+[ ] * [詳解TCP/IP](https://www.amazon.co.jp/dp/4894713209/)
 # インフラ基礎
 [ ] * [インフラエンジニアの教科書2](https://www.amazon.co.jp/dp/4863541864/)
 [ ] * [絵で見てわかるITインフラの仕組み](https://www.amazon.co.jp/dp/4798158461/)
