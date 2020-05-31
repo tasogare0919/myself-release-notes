@@ -119,25 +119,64 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 
 ## 0.30.9(2020/5)
 ### 目標
-* [ ] ブログのPV数を2500以上を目指す
+* [x] ブログのPV数を2500以上を目指す
 * [x] AWS認定試験 DevOps試験に合格する
-* [ ] 個人開発を進める
-* [ ] 積ん読消化
+* [x] 個人開発を進める
+* [x] 積ん読消化
   * [x] AWSコスト本
-  * [ ] AWS監視本
+  * [x] AWS監視本
 
+### 自分の成長戦略で進められたこと
+* AWS DevOps Professional 再認定に合格した
+* 監視やコストの意識を持つように本を読み進めた
+* 普段の業務をしつつ過去の負債を返済する活動を推進した
+* Datadogの監視の設定に関わるようになった
+
+### ブログ
+9本書いた.
+
+* [Datadog の監視をハンズオン形式で学べる『Datadog で始めるモニタリング基盤』](https://sadayoshi-tada.hatenablog.com/entry/2020/05/05/120000)
+* [待望の GA! AWS Chatbot を使って AWS をもっと使いこなそう!!](https://sadayoshi-tada.hatenablog.com/entry/2020/05/07/080000)
+* [【脳筋Tech】減量経過を Amazon Forcast に取り込んで体重の推移を予測してみよう💪!](https://sadayoshi-tada.hatenablog.com/entry/2020/05/11/080000)
+* [AWS の利用料最適化の知識と実践力をつけるなら『Amazon Web Services コスト最適化入門』がオススメ！](https://sadayoshi-tada.hatenablog.com/entry/2020/05/13/080000)
+* [AWS のサービスステータスを Datadog で監視する『AWS Outage Alerts』機能](https://sadayoshi-tada.hatenablog.com/entry/2020/05/15/080000)
+* [AWS のクラウドネイティブアーキテクチャを『クラウドネイティブファーストストーリー』で体感しよう!](https://sadayoshi-tada.hatenablog.com/entry/2020/05/18/080000)
+* [【データ収集】AppFlow を使って Google Analytics のブログのデータを S3 にアップロードする](https://sadayoshi-tada.hatenablog.com/entry/2020/05/22/080000)
+* [AWS で監視設計を学ぶなら『AWSを通じて学ぶ、監視設計』から読もう！](https://sadayoshi-tada.hatenablog.com/entry/2020/05/25/080000)
+* [【脳筋Tech】ダイエットの進捗を楽しくするための仕組みを作ってみた💪!](https://sadayoshi-tada.hatenablog.com/entry/2020/05/30/150000)
+
+### 仕事
+* 今月は過去の負債を返したり、ポストモーテム活動ができた
+* プロジェクトを離れるため引き継ぎをしっかりやろう
+
+### 読んだ本
+* Amazon Web Services コスト最適化入門
+* AWSを通じて学ぶ、監視設計
+* ソフトウェアファースト
+
+### その他
+* 緊急事態宣言が解除されたのでこれから外出していきたい
+* AWS認定試験も自宅でできるようになったので受験していきたい
+
+
+## 0.30.9(2020/5)
+### 目標
+* [ ] ブログのPV数を2800以上を目指す
+* [ ] 個人開発でカイゼンを1つ以上行う
+* [ ] AWS認定試験 Machine Learning Speciality を来月受験するために計画を立てる
+* [ ] 積ん読消化
+  * [ ] GitHub Actions実践入門
+  * [ ] コンテナ時代のWebサービスの作り方
+  * [ ] 入門 監視
+  * [ ] IaC 本
 
 ### 自分の成長戦略で進められたこと
 
 
 ### ブログ
 
-
-
 ### 仕事
 
 ### 読んだ本
 
-
 ### その他
-。
