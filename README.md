@@ -168,7 +168,7 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 * [ ] 積ん読消化
   * [ ] GitHub Actions実践入門
   * [ ] コンテナ時代のWebサービスの作り方
-  * [ ] 入門 監視
+  * [x] 入門 監視
   * [ ] IaC 本
 
 ### 自分の成長戦略で進められたこと
