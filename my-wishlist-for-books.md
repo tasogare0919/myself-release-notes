@@ -31,7 +31,7 @@ https://qiita.com/tmknom/items/67dbfcf5194aee5c6e61
 [ ] * [Cloud Native DevOps With Kubernetes](https://www.amazon.co.jp/dp/1492040762/)
 # システム運用
 [ ] * [継続的デリバリー](https://www.amazon.co.jp/dp/4048930583/)
-[ ] * [入門 監視](https://www.amazon.co.jp/dp/4873118646/)
+[x] * [入門 監視](https://www.amazon.co.jp/dp/4873118646/)
 [ ] * [SRE](https://www.amazon.co.jp/dp/4873117917/)
 [ ] * [ソフトウェアエンジニアのための ITインフラ監視[実践]入門][(](https://www.amazon.co.jp/dp/4774178659/))
 [ ] * [The Site Reliability Workbook](https://www.amazon.co.jp/dp/1492029505)
