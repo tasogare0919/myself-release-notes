@@ -167,7 +167,7 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 * [ ] AWS認定試験 Machine Learning Speciality を来月受験するために計画を立てる
 * [ ] 積ん読消化
   * [ ] GitHub Actions実践入門
-  * [ ] コンテナ時代のWebサービスの作り方
+  * [x] コンテナ時代のWebサービスの作り方
   * [x] 入門 監視
   * [ ] IaC 本
 
