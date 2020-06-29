@@ -1,5 +1,12 @@
 # 自分リリースノート
 * 自分の成長戦略で進めること
+  * コンテナのCI/CD,セキュリティ,監視の仕組み,基礎(OSレイヤーの勉強)
+  * IaCの勉強
+  * データ分析の前処理(Python)
+  * SQL
+  * データベース
+  * クラウドネィティブなアーキテクチャ設計と実装,運用に関する理解を深める
+  * データ分析コンペに1人で参加できるようになる
 * ブログで月3,000 PV超えになるよう継続する
 * 仕事は、自分以外の人でもできるような仕組み
 
@@ -160,21 +167,62 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 * AWS認定試験も自宅でできるようになったので受験していきたい
 
 
-## 0.30.9(2020/5)
+## 0.30.10(2020/6)
 ### 目標
-* [ ] ブログのPV数を2800以上を目指す
-* [ ] 個人開発でカイゼンを1つ以上行う
-* [ ] AWS認定試験 Machine Learning Speciality を来月受験するために計画を立てる
+* [ ] ブログのPV数を2800以上を目指す :
+* [ ] 個人開発でカイゼンを1つ以上行う : カイゼンの仕掛かりはできたが,カイゼンを1つ完了までは終わらなかった
+* [x] AWS認定試験 Machine Learning Speciality を来月受験するために計画を立てる
 * [ ] 積ん読消化
-  * [ ] GitHub Actions実践入門
+  * [x] GitHub Actions実践入門
   * [x] コンテナ時代のWebサービスの作り方
   * [x] 入門 監視
+  * [ ] IaC 本 : 読んでる途中
+
+### 自分の成長戦略で進められたこと
+* Terraformを触った
+* コンテナを使ったCI/CDのワークフローを
+* 前処理100本ノックをはじめた
+* データ分析のコンテナの使い方を勉強し始めた
+
+### ブログ
+* [Service Health Dashboards を監視する『AWS Outage Alerts』機能を実装するまでにわかったことを整理する](https://sadayoshi-tada.hatenablog.com/entry/2020/06/01/080000)
+* [複数アカウントや環境の切り替えに Terraform の WorkSpaces を使ってみた](https://sadayoshi-tada.hatenablog.com/entry/2020/06/08/080000)
+* [監視の基本と戦略を学ぶなら『入門 監視』で勘所を押さえよう](https://sadayoshi-tada.hatenablog.com/entry/2020/06/10/080000)
+* [『AWS Data Wrangler』の v1.0 がリリース! どんなアップデートがあったかを整理する](https://sadayoshi-tada.hatenablog.com/entry/2020/06/12/080000)
+* [『コンテナ時代のWebサービスの作り方』での CircleCI ビルド時にハマったエラー対応を整理する](https://sadayoshi-tada.hatenablog.com/entry/2020/06/16/083000)
+* [AWS での Terraform とコンテナの開発・デプロイを体感する『コンテナ時代のWebサービスの作り方』を読んだ](https://sadayoshi-tada.hatenablog.com/entry/2020/06/18/080000)
+* [CloudFormation テンプレートがルールに準拠しているかをチェックする CLI ツール『CloudFormation Guard』](https://sadayoshi-tada.hatenablog.com/entry/2020/06/19/080000)
+* [GitHub Actions の使い方を実践的に学べる『GitHub Actions 実践入門』を読んだ](https://sadayoshi-tada.hatenablog.com/entry/2020/06/22/092000)
+* [おや？ NLB のアクセスログを出力設定しているのに S3 バケットにログが出てないぞ？って時に確認すべきこと](https://sadayoshi-tada.hatenablog.com/entry/2020/06/25/093000)
+* [Amazon の継続的デプロイの取り組みを学べる『Automating safe, hands-off deployments』を読んだ](https://sadayoshi-tada.hatenablog.com/entry/2020/06/27/143000)
+
+### 仕事
+* プロジェクトの中での負債を2つ返済した
+* プロジェクト内での運用改善をやった
+
+### 読んだ本
+* GitHub Actions実践入門
+* コンテナ時代のWebサービスの作り方
+* 入門 監視
+* Software Design 7月号
+* ハッタリの流儀
+
+### その他
+* 自粛強化中の過ごし方に慣れてしまい、土日を外出せずに無気力で終わっていてよくないなと思う
+  * 週次でこれをやるってタスクの洗い出しと計画をしていかないと土日があっという間に終わってしまう。。
+
+## 0.30.11(2020/7)
+### 目標
+* [ ] ブログのPV数を2700以上を目指す
+* [ ] AWS認定試験 Machine Learning Speciality を受験し合格する
+* [ ] 積ん読消化
   * [ ] IaC 本
 
 ### 自分の成長戦略で進められたこと
 
 
 ### ブログ
+
 
 ### 仕事
 
