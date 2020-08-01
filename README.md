@@ -213,8 +213,46 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 
 ## 0.30.11(2020/7)
 ### 目標
-* [ ] ブログのPV数を2700以上を目指す
+* [x] ブログのPV数を2700以上を目指す
+  * 3,008PVでフィニッシュ
 * [ ] AWS認定試験 Machine Learning Speciality を受験し合格する
+  * 750点で合格のところ709点だった
+* [x] 積ん読消化
+  * [x] IaC 本
+
+### 自分の成長戦略で進められたこと
+* ML Speciality の勉強を通じて機械学習モデルのデータ収集、加工、学習、評価、デプロイという流れを勉強した
+* データ分析系として QuickSight と Athena のブログを書けた
+* 人生初 OSS に issue を立ててマージされた
+  * https://github.com/aws/copilot-cli/issues/1111
+
+### ブログ
+* [スピーディーなコンテナ環境の構築とアプリケーションデプロイができる『AWS Copilot CLI』](https://sadayoshi-tada.hatenablog.com/entry/2020/07/01/080500)
+* データを可視化する QuickSight に入門しよう!『Basic ハンズオン編』の紹介(https://sadayoshi-tada.hatenablog.com/entry/2020/07/06/211000)
+* 【Athena の躓きシリーズ】CloudTrail ログの中から API コール数を集計する Athena のクエリ(https://sadayoshi-tada.hatenablog.com/entry/2020/07/08/181532)
+* コンテナの環境構築とデプロイをサポートする『AWS Copilot』の概念や用語を理解する(https://sadayoshi-tada.hatenablog.com/entry/2020/07/10/120000)
+* [データを可視化する QuickSight に入門しよう!『セルフBIサービス・販売管理ダッシュボード編』の紹介](https://sadayoshi-tada.hatenablog.com/entry/2020/07/14/120000)
+* [『Data Engineering Study #1 』でデータ分析基盤の活用で必要なアクションとデータ活用の実例を聞いた](https://sadayoshi-tada.hatenablog.com/entry/2020/07/16/090000)
+* [AWS CDK アプリケーションの継続的デプロイメントを実装する『CDK Pipeline』を実践した](https://sadayoshi-tada.hatenablog.com/entry/2020/07/26/123000)
+* [東京都のオープンデータを使ってデータの可視化を QuickSight で実践しよう!](https://sadayoshi-tada.hatenablog.com/entry/2020/07/27/090000)
+* [『AWS Copilot CLI』のコマンドとパラメーターから『AWS Coplilot』の理解を深める](https://sadayoshi-tada.hatenablog.com/entry/2020/07/31/204041)
+
+### 仕事
+* 運用に関するガイドラインを書いた
+* 業務の引き継ぎを終えた
+* 退職の挨拶を終えた
+
+### 読んだ本
+* IaC 本
+* 仕事ではじめる機械学習
+
+### その他
+* 転職先を決めて9月から新天地で頑張る
+
+## 0.30.12(2020/8)
+### 目標
+* [ ] ブログのPV数を3000以上を目指す
+* [ ] AWS認定試験 Machine Learning Speciality にリベンジして合格する
 * [ ] 積ん読消化
   * [ ] IaC 本
 
@@ -222,7 +260,6 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 
 
 ### ブログ
-
 
 ### 仕事
 
