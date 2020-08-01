@@ -228,9 +228,9 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 
 ### ブログ
 * [スピーディーなコンテナ環境の構築とアプリケーションデプロイができる『AWS Copilot CLI』](https://sadayoshi-tada.hatenablog.com/entry/2020/07/01/080500)
-* データを可視化する QuickSight に入門しよう!『Basic ハンズオン編』の紹介(https://sadayoshi-tada.hatenablog.com/entry/2020/07/06/211000)
-* 【Athena の躓きシリーズ】CloudTrail ログの中から API コール数を集計する Athena のクエリ(https://sadayoshi-tada.hatenablog.com/entry/2020/07/08/181532)
-* コンテナの環境構築とデプロイをサポートする『AWS Copilot』の概念や用語を理解する(https://sadayoshi-tada.hatenablog.com/entry/2020/07/10/120000)
+* [データを可視化する QuickSight に入門しよう!『Basic ハンズオン編』の紹介](https://sadayoshi-tada.hatenablog.com/entry/2020/07/06/211000)
+* [【Athena の躓きシリーズ】CloudTrail ログの中から API コール数を集計する Athena のクエリ](https://sadayoshi-tada.hatenablog.com/entry/2020/07/08/181532)
+* [コンテナの環境構築とデプロイをサポートする『AWS Copilot』の概念や用語を理解する](https://sadayoshi-tada.hatenablog.com/entry/2020/07/10/120000)
 * [データを可視化する QuickSight に入門しよう!『セルフBIサービス・販売管理ダッシュボード編』の紹介](https://sadayoshi-tada.hatenablog.com/entry/2020/07/14/120000)
 * [『Data Engineering Study #1 』でデータ分析基盤の活用で必要なアクションとデータ活用の実例を聞いた](https://sadayoshi-tada.hatenablog.com/entry/2020/07/16/090000)
 * [AWS CDK アプリケーションの継続的デプロイメントを実装する『CDK Pipeline』を実践した](https://sadayoshi-tada.hatenablog.com/entry/2020/07/26/123000)
