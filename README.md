@@ -262,8 +262,10 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 
 *努力目標*
 
+* k8sの勉強としてブログ作る
 * DevOps ロードマップを少しでも進める
-* 前処理100本ノックのPython編を終わらせる
+* 前処理100本ノックのPython編を終わらせるよう進める
+* Vlogに挑戦する
 
 ### 自分の成長戦略で進められたこと
 
