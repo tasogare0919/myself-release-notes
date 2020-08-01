@@ -252,10 +252,18 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 
 ## 0.30.12(2020/8)
 ### 目標
+*必達目標*
+
 * [ ] ブログのPV数を3000以上を目指す
 * [ ] AWS認定試験 Machine Learning Speciality にリベンジして合格する
 * [ ] 積ん読消化
-  * [ ] IaC 本
+  * [ ] AWS ではじめるデータレイク
+  * [ ] ビッグデータ分析のシステムと開発がしっかりわかる教科書
+
+*努力目標*
+
+* DevOps ロードマップを少しでも進める
+* 前処理100本ノックのPython編を終わらせる
 
 ### 自分の成長戦略で進められたこと
 
