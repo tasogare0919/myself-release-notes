@@ -225,6 +225,7 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 * データ分析系として QuickSight と Athena のブログを書けた
 * 人生初 OSS に issue を立ててマージされた
   * https://github.com/aws/copilot-cli/issues/1111
+* IaC本を読了した
 
 ### ブログ
 * [スピーディーなコンテナ環境の構築とアプリケーションデプロイができる『AWS Copilot CLI』](https://sadayoshi-tada.hatenablog.com/entry/2020/07/01/080500)
