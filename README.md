@@ -260,22 +260,50 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
   * [x] AWS ではじめるデータレイク
   * [x] ビッグデータ分析のシステムと開発がしっかりわかる教科書
 
-*努力目標*
+### ブログ
 
-* k8sの勉強としてブログ作る
-* DevOps ロードマップを少しでも進める
-* 前処理100本ノックのPython編を終わらせるよう進める
-* Vlogに挑戦する
-  *
-*
+* [『AWS Coplilot CLI』の v0.2.0 でサポートされたストレージリソースのデプロイを実践する](https://sadayoshi-tada.hatenablog.com/entry/2020/08/03/133706)
+* [『AWS Copilot』で ECS の CI/CD パイプラインをサクッと作る](https://sadayoshi-tada.hatenablog.com/entry/2020/08/07/093925)
+* [Amazon の監視ダッシュボードの取り組みを学べる『Building dashboards for operational visibility』を読んだ](https://sadayoshi-tada.hatenablog.com/entry/2020/08/13/154535)
+* [データレイクの基礎から構築と運用の視点を学べる『AWS ではじめるデータレイク』を読んだ](https://sadayoshi-tada.hatenablog.com/entry/2020/08/17/090000)
+* [データ分析における収集とその活用の取り組みを『Data Engineering Study #2』で聞いた](https://sadayoshi-tada.hatenablog.com/entry/2020/08/20/090000)
+* [『AWS Copilot CLI』 v0.3.0 で追加された機能を整理する](https://sadayoshi-tada.hatenablog.com/entry/2020/08/21/172948)
+* [機械学習の専門知識を証明する『AWS 認定 Machine Learning Speciality』の試験勉強でやったことを整理する](https://sadayoshi-tada.hatenablog.com/entry/2020/08/24/090000)
+* [自分の仕事を見つめ直すきっかけをくれる『その仕事、全部やめてみよう』を読んだ](https://sadayoshi-tada.hatenablog.com/entry/2020/08/26/085500)
 
-### 自分の成長戦略で進められたこと
+### 読んだ本
+* AWS ではじめるデータレイク
+* その仕事、全部やめてみよう
 
+### その他
+* ML Specialityうかってよかった
+* 9月から新しい会社で頑張るぞ
+
+## 0.31.01(2020/9)
+### 目標
+*必達目標*
+
+* [x] AWS DevDayのCFPを出す(9/14締め切り)
+* [ ] ブログのPV数を3000以上を目指す
+   * 2783pvだった
+* [ ] AWS認定Database Specialityに合格する
 
 ### ブログ
 
-### 仕事
+* [Macbook の初期セットアップを Ansible で取り組む(2020年9月版)](https://sadayoshi-tada.hatenablog.com/entry/2020/09/05/012640)
+* [Aurora MySQL の特定テーブルデータを SELECT INTO OUTFILE S3 を使って S3 にエクスポートする](https://sadayoshi-tada.hatenablog.com/entry/2020/09/09/090000)
+* [Aurora MySQL のスナップショットから特定テーブルデータを S3 にエクスポートする](https://sadayoshi-tada.hatenablog.com/entry/2020/09/10/151726)
+* [S3 に保存したデータを BigQuery に読み込ませるための方法を検証した](https://sadayoshi-tada.hatenablog.com/entry/2020/09/15/080000)
+* [データレイクの基礎から構築と運用の視点を学べる『AWS ではじめるデータレイク』を読んだ](https://sadayoshi-tada.hatenablog.com/entry/2020/08/17/090000)
+* [【Athena の躓きシリーズ】Athena 専用ユーザーを払い出してクエリを叩けるまでにハマったこと](https://sadayoshi-tada.hatenablog.com/entry/2020/09/21/090000)
+* [【Athena の躓きシリーズ】Athena で MySQL の UNIXTIME を扱うクエリを変換した時にハマったこと](https://sadayoshi-tada.hatenablog.com/entry/2020/09/28/090000)
+
 
 ### 読んだ本
+* データ視覚化のデザイン
+* マンガでわかる監視入門
 
 ### その他
+* 31歳になった
+* キャンプとサーフィンといった体験のチャレンジと人付き合いの幅が広がった
+* やりたかったデータ基盤を作ることとAWSのお守りを任せてもらえて楽しい
