@@ -307,3 +307,44 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 * 31歳になった
 * キャンプとサーフィンといった体験のチャレンジと人付き合いの幅が広がった
 * やりたかったデータ基盤を作ることとAWSのお守りを任せてもらえて楽しい
+
+## 0.31.02(2020/10)
+### 目標
+*必達目標*
+
+* [x] ブログのPV 3000以上を目指す
+* [x] AWSDevDayに万全の状態で臨む
+* [x] DMM本を読んで書評記事を書く
+
+### ブログ
+
+* [『AWS Copilot CLI』 v0.4.0 で追加された機能を整理する](https://sadayoshi-tada.hatenablog.com/entry/2020/10/03/121141)
+* [Lambda のカスタムランタイムで AWS CLI を実行させる](https://sadayoshi-tada.hatenablog.com/entry/2020/10/04/171434)
+* [【Athena の躓きシリーズ】Athena で JSON データを出力したい時にハマったこと](https://sadayoshi-tada.hatenablog.com/entry/2020/10/08/080000)
+* [Mackerel の CLI ツール『mkr』を使ってみる](https://sadayoshi-tada.hatenablog.com/entry/2020/10/16/080000)
+* [Mackerel の公式プラグインを使ってメトリック監視を行う](https://sadayoshi-tada.hatenablog.com/entry/2020/10/20/090000)
+* [『データドリブンな組織を目指す、AWSを活用したデータ分析基盤の取り組み』と題して AWS DevDay で登壇した](https://sadayoshi-tada.hatenablog.com/entry/2020/10/23/090000)
+* [データドリブンな組織・仕組み作りを学ぶために『DMM.com を支えるデータ駆動戦略』を読んだ](https://sadayoshi-tada.hatenablog.com/entry/2020/10/31/194515)
+
+
+### 読んだ本
+* Webエンジニアのための監視システム実装ガイド
+* DMM.com を支えるデータ駆動戦略
+* Mackerelサーバ監視“実践”入門: SaaSで実現する統合インフラ管理
+
+### その他
+* AWS DevDay に初登壇していろんな人に興味持ってもらえた
+  * アウトプットしてそれで興味をもらった人と繋がるのが嬉しい
+* 今月もサーフィンいけた
+* ステージングアカウントを作っていく計画もできたから11月から移行していく
+* Mackerel 監視の方針も決まってきたので横展開していく
+
+## 0.31.03(2020/11)
+### 目標
+*必達目標*
+
+* [ ] ブログのPV 3000以上を目指す
+* [ ] AWSDevDayに万全の状態で臨む
+* [ ] AWS認定Database Specialityに合格する
+
+### ブログ
