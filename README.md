@@ -343,8 +343,21 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ### 目標
 *必達目標*
 
-* [ ] ブログのPV 3000以上を目指す
-* [ ] AWS認定Database Specialityに合格する
-* [ ] SQL Zooを進められるだけ進める
+* [x] ブログのPV 3000以上を目指す
+* [x] AWS認定Database Specialityに合格する
+* [x] SQL Zooを進められるだけ進める
 
 ### ブログ
+* [FastAPI と Falcon を Docker イメージにした時のサイズとレスポンスのスピードを計測した](https://sadayoshi-tada.hatenablog.com/entry/2020/11/04/090000)
+* [SSM Automation を使ったオペレーションの省力化！](https://sadayoshi-tada.hatenablog.com/entry/2020/11/06/234643)
+* [SAM で Step Functions と Lambda のワークフローを管理する](https://sadayoshi-tada.hatenablog.com/entry/2020/11/09/090000)
+* [運用の改善事例を聴ける『Jira / Confluence × Mackerel で実践！ 運用しながら改善していくDevOpsのはじめかた』参加レポート](https://sadayoshi-tada.hatenablog.com/entry/2020/11/11/192155)
+* [JAWS-UG 朝会 #15 で『AWS Organizations と一緒にはじめるアカウント分離』の取り組みを発表した](https://sadayoshi-tada.hatenablog.com/entry/2020/11/18/131412)
+* [CloudWatch Agent で procstat プラグインを使った EC2 のプロセス監視を設定する](https://sadayoshi-tada.hatenablog.com/entry/2020/11/27/090000)
+* [AWS のデータベースの専門知識を証明する『AWS 認定 Database Speciality』の試験勉強でやったことを整理する](https://sadayoshi-tada.hatenablog.com/entry/2020/11/30/132159)
+
+### その他
+* JTF のCFP出した
+* AWS 認定 10個取れた
+  * 残り実質1個！
+* ステージングアカウントを作れた
