@@ -20,12 +20,12 @@ https://qiita.com/tmknom/items/67dbfcf5194aee5c6e61
 # インフラ基礎
 [ ] * [インフラエンジニアの教科書2](https://www.amazon.co.jp/dp/4863541864/)
 [ ] * [絵で見てわかるITインフラの仕組み](https://www.amazon.co.jp/dp/4798158461/)
-[x] * [Iac](https://www.amazon.co.jp/dp/4873117968/)
+[x] * [IaC](https://www.amazon.co.jp/dp/4873117968/)
 # セキュリティ
 [ ] * [この一冊で全部わかるセキュリティの基本](https://www.amazon.co.jp/dp/4797388803/)
 [ ] * [プロフェッショナルSSL/TLS](https://www.amazon.co.jp/dp/4908686009/)
 # クラウドネイティブ
-[ ] * [実践Terraform]():sumi
+[x] * [実践Terraform]()
 [ ] * [Kubernetes実践ガイド](https://www.amazon.co.jp/dp/4295006637/)
 [ ] * [Cloud Native Infrastructure](https://www.amazon.co.jp/dp/1491984309/)
 [ ] * [Cloud Native DevOps With Kubernetes](https://www.amazon.co.jp/dp/1492040762/)
