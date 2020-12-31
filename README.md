@@ -361,3 +361,29 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 * AWS 認定 10個取れた
   * 残り実質1個！
 * ステージングアカウントを作れた
+
+## 0.31.04(2020/12)
+### 目標
+*必達目標*
+
+* [x] ブログのPV 3500以上を目指す
+* [x] AWS認定 Advanced Networking Specialityに合格する
+* [x] 12月中にブログ90記事を書き上げる
+### ブログ
+* [Mackerel 導入から導入後にやったこととこれからのことを整理する](https://sadayoshi-tada.hatenablog.com/entry/2020/12/07/070000)
+* [Auto Scaling の AMI に Mackerel Agent を導入する時の設定でハマったこと](https://sadayoshi-tada.hatenablog.com/entry/2020/12/10/161816)
+* [毎週ブログを書くことを3年間続けてみた1年を振り返る](https://sadayoshi-tada.hatenablog.com/entry/2020/12/14/090000)
+* [redash のアラート機能を使って Slack に通知する設定を試した](https://sadayoshi-tada.hatenablog.com/entry/2020/12/15/090000)
+* [microCMS + Nuxt.js + Vue.js のコンテンツを GitHub Actions でビルド&デプロイする](https://sadayoshi-tada.hatenablog.com/entry/2020/12/18/140000)
+* [AWS のネットワークの専門知識を証明する『AWS 認定 Advanced Networking Speciality』の試験勉強でやったことを整理する](https://sadayoshi-tada.hatenablog.com/entry/2020/12/25/090000)
+* [プライベートサブネットのサーバー接続をするために AWS Client VPN を使ってみる](https://sadayoshi-tada.hatenablog.com/entry/2020/12/27/162537)
+* [AWS Client VPN の IP アドレスを固定化してインターネットと通信する](https://sadayoshi-tada.hatenablog.com/entry/2020/12/27/205944)
+* [AWS Client VPN のユーザー認証を Active Directory 認証で行う](https://sadayoshi-tada.hatenablog.com/entry/2020/12/28/003256)
+* [AWS SSO と GSuite を連携した認証のフローを作ってみよう！](https://sadayoshi-tada.hatenablog.com/entry/2020/12/28/155740)
+* [CloudWatch Logs の大量のログに対して『check-aws-cloudwatch-logs-insights』プラグインによる監視を入れる](https://sadayoshi-tada.hatenablog.com/entry/2020/12/29/125127)
+* [AWS Clinet VPN のユーザー認証を SAML 認証で行う](https://sadayoshi-tada.hatenablog.com/entry/2020/12/30/202650)
+* [2020年の振り返り](https://sadayoshi-tada.hatenablog.com/entry/2020/12/31/113709)
+### その他
+* JTF のCFP を採択してもらった
+* AWS 認定 11個目取れた
+* 会社の目標全て達成した
