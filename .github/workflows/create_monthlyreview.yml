@@ -10,17 +10,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-
       - name: Get Current Date
         id : date
         run: echo "::set-output name=date::$(date + '%Y/%m/%d')"
-
-       - name: Create New Issue
-         uses: imjohnbo/issue-bot@v2.3
-         with:
+      - name: Create New Issue
+        uses: imjohnbo/issue-bot@v2.3
+        with:
           title: Monthly Tasks - ${{ steps.date.outputs.date }}
           pinned: false
           close-previous: true
           template: ".github/ISSUE_TEMPLATE/monthlyreview.md"
-         env:
+        env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN_KEY }}
