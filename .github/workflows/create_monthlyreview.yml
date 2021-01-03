@@ -2,6 +2,7 @@ name : create_monthlyreview
 on: 
   schedule:
     - cron: "0/5 * * * *"
+  workflow_dispatch:
 
 jobs:
   create_monthlyreviewlist:
