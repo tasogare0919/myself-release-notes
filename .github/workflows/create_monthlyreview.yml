@@ -1,0 +1,26 @@
+name : create_monthlyreview
+on: 
+  schedule:
+    - cron: "0/5 0 * * ? *"
+
+jobs:
+  create_monthlyreviewlist:
+    name: Create Monthly Review List
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Get Current Date
+        id : date
+        run: echo "::set-output name=date::$(date + '%Y/%m/%d')"
+
+       - name: Create New Issue
+         uses: imjohnbo/issue-bot@v2.3
+         with:
+          title: Monthly Tasks - ${{ steps.date.outputs.date }}
+          pinned: false
+          close-previous: true
+          template: ".github/ISSUE_TEMPLATE/monthlyreview.md"
+         env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN_KEY }}
