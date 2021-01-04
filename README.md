@@ -382,7 +382,8 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 
 * [ ] ブログのPV 3000以上を目指す
 * [ ] AWS認定 Alexa Specialityに合格する
-* [ ] [トレタ社の SRE の方との課題対応の雑談の場をセッティングする](https://twitter.com/tada_infra/status/1337732222560817154?s=20)
+* [x] [トレタ社の SRE の方との課題対応の雑談の場をセッティングする](https://twitter.com/tada_infra/status/1337732222560817154?s=20)
+  * 1/7に実施
 * [ ] [JAWS DAYS 2021 の CFP を出す](https://jawsdays2021.jaws-ug.jp/call-for-papers/)
 ### ブログ
 
