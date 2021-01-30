@@ -380,11 +380,31 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ### 目標
 *必達目標*
 
-* [ ] ブログのPV 3000以上を目指す
+* [x] ブログのPV 3000以上を目指す
 * [ ] AWS認定 Alexa Specialityに合格する
 * [x] [トレタ社の SRE の方との課題対応の雑談の場をセッティングする](https://twitter.com/tada_infra/status/1337732222560817154?s=20)
   * 1/7に実施
-* [ ] [JAWS DAYS 2021 の CFP を出す](https://jawsdays2021.jaws-ug.jp/call-for-papers/)
+* [x] [JAWS DAYS 2021 の CFP を出す](https://jawsdays2021.jaws-ug.jp/call-for-papers/)
+### ブログ
+* [2021年の目標を立てました!](https://sadayoshi-tada.hatenablog.com/entry/2021/01/03/150156)
+* [Mackerel のホストの変更や監視ルールの操作変更を Slack に通知する](https://sadayoshi-tada.hatenablog.com/entry/2021/01/08/090000)
+* [AWS Client VPN のユーザー認証を AWS SSO x GSuite で試した](https://sadayoshi-tada.hatenablog.com/entry/2021/01/12/100553)
+* [胸熱! Aurora MySQL in-place upgrades 機能を使って MySQL 5.6 => 5.7 にアップグレードする](https://sadayoshi-tada.hatenablog.com/entry/2021/01/14/102134)
+* [EC2 の AMI 取得を AWS Backup で管理する](https://sadayoshi-tada.hatenablog.com/entry/2021/01/20/164604)
+* [JTF2021w で『スタートアップ企業でのAWS マルチアカウント運用の実践と普及』と題して#推しテクを発表した](https://sadayoshi-tada.hatenablog.com/entry/2021/01/25/093929)
+* [カスタムランタイム の Lambda をコンテナイメージ化してみた](https://sadayoshi-tada.hatenablog.com/entry/2021/01/29/090600)
+### その他
+* Alexaは予約がとるのを後手後手にして勉強のエンジンかからなかった。来月入ったらすぐ予約して勉強して受験する。
+* JTF の登壇が無事終わった。いい意見が多くてよかった。
+* 1月中に目処をつけたかった GitHub Actions のデプロイフローが検証が終わったけど他の課題で終わってないのがあるから来月も何かしら進めていく
+
+## 0.31.06(2021/02)
+### 目標
+*必達目標*
+
+* [ ] ブログのPV 3000以上を目指す
+* [ ] AWS認定 Alexa Specialityに合格する
+
 ### ブログ
 
 ### その他
