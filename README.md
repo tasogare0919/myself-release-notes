@@ -402,9 +402,17 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ### 目標
 *必達目標*
 
-* [ ] ブログのPV 3000以上を目指す
-* [ ] AWS認定 Alexa Specialityに合格する
-
+* [x] ブログのPV 3000以上を目指す
+* [x] AWS認定 Alexa Specialityに合格する
+* [x] 確定申告提出完了する
 ### ブログ
-
+* [AWS Backup のクロスアカウント管理によるバックアップを行う](https://sadayoshi-tada.hatenablog.com/entry/2021/02/04/011026)
+* [NAT Gateway の自動作成・削除を SSM オートメーションを使って回してみた](https://sadayoshi-tada.hatenablog.com/entry/2021/02/06/142828)
+* [AWS SAM と GitHub Actions を使った Lambda のデプロイフローの検証をしてみた](https://sadayoshi-tada.hatenablog.com/entry/2021/02/08/090000)
+* [AWS CLI で AWS SSO を使うための方法を確認した](https://sadayoshi-tada.hatenablog.com/entry/2021/02/13/140932)
+* [コンテナを使って gsutil で S3 のデータを GCS に同期してみる](https://sadayoshi-tada.hatenablog.com/entry/2021/02/16/090000)
+* [Aurora MySQL でレプリケーションを行うためにバイナリログを有効化する](https://sadayoshi-tada.hatenablog.com/entry/2021/02/19/230636)
+* [『コネヒトマルシェオンライン』で会社でのデータ活用に向けての取り組みを発表した](https://sadayoshi-tada.hatenablog.com/entry/2021/02/25/213050)
 ### その他
+* 仕事でうまくいかないことが多いけどうまく行っていることもあるので引き続き頑張ろう
+* すごく心配してた確定申告も終わったからいろいろ止めていたことをやっていく
