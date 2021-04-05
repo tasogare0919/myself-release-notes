@@ -43,12 +43,16 @@
 
 ## 4半期目標(4~6月まで)
 * 資格試験
-  * [ ] AWS認定 SA Proを取得する(4月に期限切れ)
-  * [ ] GCP 
-  * [ ] 
+  * [ ] AWS認定 SA Proを取得する
+  * [ ] GCP Associate Cloud Engineerを取得する
+  * [ ] CKAD or CKD の試験を受ける
 
 * アウトプット活動
   * [ ] ブログの月間PV数を平均3,000までもっていく
+  * [ ] ブログで Serverless Frameworkのことを1本以上書く
+  * [ ] ブログで Fargateの次のトピックを1本以上書く
+    * [ ] FireLensのログをS3やCloudWatch Logsなど複数に出す
+    * [ ] サービスディスカバリ
 
 * 仕事
   * [ ] データ基盤のBigQueryでの分析運用を始める
