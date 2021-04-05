@@ -416,3 +416,40 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ### その他
 * 仕事でうまくいかないことが多いけどうまく行っていることもあるので引き続き頑張ろう
 * すごく心配してた確定申告も終わったからいろいろ止めていたことをやっていく
+
+
+## 0.31.07(2021/03)
+### 目標
+*必達目標*
+
+* [x] ブログのPV 3500以上を目指す
+* [ ] AWS認定 SA Proに合格する
+* [x] AWS DAYSの登壇やり切る
+### ブログ
+* [Alexa スキル開発の専門知識を証明する『AWS 認定 Alexa Skill Builder Speciality』に合格するためにやったこと](https://sadayoshi-tada.hatenablog.com/entry/2021/03/01/090000)
+* [SSM Run Command をメンテナンスウィンドウで実行する](https://sadayoshi-tada.hatenablog.com/entry/2021/03/08/090000)
+* [プルリクマージ後に AWS SAM と GitHub Actions を使った差分デプロイフローを作ってみた](https://sadayoshi-tada.hatenablog.com/entry/2021/03/11/090000)
+* [Aurora のクローン機能を使ったバイナリログレプリケーションを実行してみた](https://sadayoshi-tada.hatenablog.com/entry/2021/03/15/090000)
+* [Mackerel アンバサダーの一員になりました！](https://sadayoshi-tada.hatenablog.com/entry/2021/03/15/110000)
+* [『JAWS DAYS 2021 - re:Connect -』でシステムリリースフローの刷新の取り組みを話してきた](https://sadayoshi-tada.hatenablog.com/entry/2021/03/22/120000)
+* [FireLens で出力されたコンテナのログを Athena でクエリする](https://sadayoshi-tada.hatenablog.com/entry/2021/03/31/205621)
+### その他
+* Mackerel アンバサダーに選んでもらえた
+* SA Pro 20点足らずで不合格悔しい
+* JAWS とブログは目標達成できて嬉しい
+* 仕事も大きい山を超えたからよかった
+## 0.31.08(2021/04)
+### 目標
+*必達目標*
+
+* [] K8S完全ガイドを週一必ず読む週間をつけてZennに学びを書く  
+  * 資格試験を受けるため
+* [x] 1-3月目標を振り返る
+* [ ] SAA取る(4/10受験)
+* [ ] ブログPV 3000超え
+* [x] 4-6月目標を立てる
+* [ ] SAP取る
+### ブログ
+* []()
+* []()
+### その他
