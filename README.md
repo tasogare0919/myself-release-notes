@@ -442,14 +442,34 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ### 目標
 *必達目標*
 
-* [] K8S完全ガイドを週一必ず読む週間をつけてZennに学びを書く  
+* [x] K8S完全ガイドを週一必ず読む週間をつけてZennに学びを書く  
   * 資格試験を受けるため
 * [x] 1-3月目標を振り返る
-* [ ] SAA取る(4/10受験)
-* [ ] ブログPV 3000超え
+* [ ] SAA取る
+* [x] ブログPV 3000超え
 * [x] 4-6月目標を立てる
-* [ ] SAP取る
+* [x] SAP取る
+### ブログ
+* [Mackerel と Amazon EventBridge を連携してアラート後のリカバリアクションを追加する](https://sadayoshi-tada.hatenablog.com/entry/2021/04/06/091504)
+* [pytest と moto でモックを作ったテストを行う](https://sadayoshi-tada.hatenablog.com/entry/2021/04/12/090043)
+* [暗号化した Aurora スナップショットを別アカウントで復元する](https://sadayoshi-tada.hatenablog.com/entry/2021/04/16/090000)
+* [FastAPI のコードを X-Ray を使ってトレーシングする](https://sadayoshi-tada.hatenablog.com/entry/2021/04/19/090000)
+* [ECS Fargate で Mackerel コンテナエージェントによる監視設定をする](https://sadayoshi-tada.hatenablog.com/entry/2021/04/21/090000)
+* [AWS のリソースを Terraform ファイルに変換する『aws2tf』を使ってみる](https://sadayoshi-tada.hatenablog.com/entry/2021/04/26/094942)
+### その他
+* SA Pro リベンジ成功
+* 積読消化のサイクルができた
+* Terraform の運用しっかりやってこうと思ったのと1日必ず向き合うようにできたのよかった
+* プライベートの勉強ネタが増えてきたから回せるように頑張る
+## 0.31.09(2021/05)
+### 目標
+*必達目標*
+
+* ブログ PV 3000超え
+* SAA 取る
+* GCP Associate Cloud Engineer を取る
+* 
 ### ブログ
 * []()
-* []()
+
 ### その他
