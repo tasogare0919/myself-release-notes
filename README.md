@@ -465,10 +465,11 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ### 目標
 *必達目標*
 
-* ブログ PV 3000超え
-* SAA 取る
 * GCP Associate Cloud Engineer を取る
-* 
+* k8s完全ガイドを読み進める
+* ブログ PV 3000超え
+* SAA 取る(5/7受験)
+* Mackerel チェックプラグインでuvicornのチェックプラグインを開発進める
 ### ブログ
 * []()
 
