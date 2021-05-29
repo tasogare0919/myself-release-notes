@@ -465,11 +465,30 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ### 目標
 *必達目標*
 
-* GCP Associate Cloud Engineer を取る
-* k8s完全ガイドを読み進める
-* ブログ PV 3000超え
-* SAA 取る(5/7受験)
-* Mackerel チェックプラグインでuvicornのチェックプラグインを開発進める
+* [x] GCP Associate Cloud Engineer を取る
+* [x] k8s完全ガイドを読み進める
+* [x] ブログ PV 3000超え
+* [x] SAA 取る(5/7受験)
+* [x] Mackerel チェックプラグインでuvicornのチェックプラグインを開発進める
+### ブログ
+* [ECS Fargate で動作する FastAPI のコードを X-Ray でトレースする](https://sadayoshi-tada.hatenablog.com/entry/2021/05/03/100000)
+* [WordPress API を API Gateway の HTTP 統合使ってアクセスする](https://sadayoshi-tada.hatenablog.com/entry/2021/05/13/090000)
+* [S3 に保存した拡張子を取り除いた html コンテンツが閲覧ができない事象の対処](https://sadayoshi-tada.hatenablog.com/entry/2021/05/14/090000)
+* [GitHub Actions で特定のワークフロー完了後に動作するワークフローを作る](https://sadayoshi-tada.hatenablog.com/entry/2021/05/19/090000)
+* [FireLens からログだけ Lambda を使って抽出し,Athena でクエリする](https://sadayoshi-tada.hatenablog.com/entry/2021/05/24/090000)
+
+### その他
+* AWS 認定資格コンプリートリターンズ
+* GCP 認定資格を1つ合格した
+* 副業が6月から始まる
+* バイク免許取りに行くぞ（7月から)
+## 0.31.10(2021/06)
+### 目標
+
+* [ ] CKADを受験する
+* [ ] ブログ PV 3000超え
+* [ ] 
+* [ ] Mackerel チェックプラグインでuvicornのチェックプラグインを開発進める
 ### ブログ
 * []()
 
