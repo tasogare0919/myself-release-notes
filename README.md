@@ -487,7 +487,6 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 
 * [ ] CKADを受験する
 * [ ] ブログ PV 3000超え
-* [ ] 
 * [ ] Mackerel チェックプラグインでuvicornのチェックプラグインを開発進める
 ### ブログ
 * []()
