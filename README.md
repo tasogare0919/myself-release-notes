@@ -486,8 +486,8 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ### 目標
 
 * [ ] CKAを受験する
-* [ ] ブログ PV 3000超え
-* [ ] Mackerel チェックプラグインでuvicornのチェックプラグインを開発進める
+* [x] ブログ PV 3000超え
+* [x] Mackerel チェックプラグインでuvicornのチェックプラグインを開発進める
 ### ブログ
 * []()
 
