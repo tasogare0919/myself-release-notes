@@ -489,6 +489,20 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 * [x] ブログ PV 3000超え
 * [x] Mackerel チェックプラグインでuvicornのチェックプラグインを開発進める
 ### ブログ
-* []()
+* [Mackerel の『式による監視』を試した](https://sadayoshi-tada.hatenablog.com/entry/2021/06/11/105705)
+* [コンテナ・サーバーレスアプリケーションデプロイのマネージドサービス『AWS Proton』をサンプルを動かして理解する](https://sadayoshi-tada.hatenablog.com/entry/2021/06/14/090000)
+* [Nginx + Puma + Sinatra のコンテナを ECS Fargate で起動する時にハマったことをまとめる](https://sadayoshi-tada.hatenablog.com/entry/2021/06/18/150026)
+* [AWS Chatbot から Lambda の発火させて手動作業を自動化する](https://sadayoshi-tada.hatenablog.com/entry/2021/06/27/105653)
+* [Mackerel のカスタムプラグインを自作して FastAPI 関連プロセスを監視してみる](https://sadayoshi-tada.hatenablog.com/entry/2021/06/30/090000)
 
 ### その他
+* CKA受験予定だったけど受験の権利を買っただけで終わったので次月以降に勉強してうける
+* 副業でNuxt.jsの実行基盤をElastic BeanstalkからECS Fargateに移行検証とレポーティングが完了
+  * 順次移行中
+* JTF登壇決まった
+* DBREの輪読会をやるようになった
+
+## 0.31.11(2021/07)
+### 目標
+
+### ブログ
