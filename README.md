@@ -503,6 +503,11 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 * DBREの輪読会をやるようになった
 
 ## 0.31.11(2021/07)
+
+* [ ] ブログ PV 3500超え
+* [ ] JTF 登壇をやりきる
+* [ ] FastAPI のコードの開発を素振りし、本業でもプロダクションのコードに関わる
+* [ ] Slack Appデプロイ環境を作る(GCE+Nginx+PostgreSQL)
 ### 目標
 
 ### ブログ
