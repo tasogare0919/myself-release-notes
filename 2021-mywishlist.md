@@ -95,18 +95,17 @@
 
 * アウトプット活動
   * [ ] ブログの月間PV数を平均3,000までもっていく
-    * 7月: pv
+    * 7月: 4962pv
     * 8月: pv
     * 9月: pv
   * [ ] ブログで FastAPIのパフォーマンス測定や改善ネタを投稿する
-    * [ ] Serverless 負荷ツールで測定
+    * [ ] [AWS負荷ツール](https://aws.amazon.com/jp/solutions/implementations/distributed-load-testing-on-aws/)で測定
+    * [ ] シナリオテストのツール
   * [ ] ブログでコスト削減オプションネタを投稿する
     * [ ] Saving PlansとRI
   
 * 仕事
   * [ ] データ基盤のBigQueryでの分析運用を始める
-    * [ ] 1つ集計テーブル化してクエリする
-    * [ ] コストアラートを検知できるようにする
     * [ ] 危ないクエリのアラートを入れる
   * [ ] redashをコンテナ運用に載せる
 
