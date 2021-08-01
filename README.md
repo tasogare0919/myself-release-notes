@@ -503,11 +503,31 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 * DBREの輪読会をやるようになった
 
 ## 0.31.11(2021/07)
-
-* [ ] ブログ PV 3500超え
-* [ ] JTF 登壇をやりきる
-* [ ] FastAPI のコードの開発を素振りし、本業でもプロダクションのコードに関わる
-* [ ] Slack Appデプロイ環境を作る(GCE+Nginx+PostgreSQL)
 ### 目標
 
+* [x] ブログ PV 3500超え
+* [x] JTF 登壇をやりきる
+* [x] FastAPI 入門のコードを写経する
+* [ ] Slack Appデプロイ環境を作る(GCE+Nginx+PostgreSQL)
 ### ブログ
+* [ECS Fatgate の FastAPI 関連プロセスを Mackerel で監視する](https://sadayoshi-tada.hatenablog.com/entry/2021/07/07/134328)
+* [ECS Fargate の AutoScaling 設定に関するコマンドをまとめておく](https://sadayoshi-tada.hatenablog.com/entry/2021/07/12/090000)
+* [CodePipeline と CodeBuild で Git のタグを使ったリリースを行う](https://sadayoshi-tada.hatenablog.com/entry/2021/07/16/102708)
+* [July Tech Festa 2021 に『今日から実践！継続的に自分の軌跡を残す方法』で登壇した](https://sadayoshi-tada.hatenablog.com/entry/2021/07/19/090000)
+* [redash のコンテナログを CloudWatch Logs に出力する](https://sadayoshi-tada.hatenablog.com/entry/2021/07/30/062913)
+
+### その他
+* Slack App デプロイの環境作りが思いの外てこずった。。Ansible で GCE 接続が意外とむずい
+* JTF の登壇終わり。いい反応ももらえた
+* isucon の準備をやっていかないと前回と同じ結果しか出ないのでやる
+
+## 0.31.12(2021/08)
+### 目標
+
+* [ ] ブログ PV 3500超え
+* [ ] isucon に万全で臨む
+* [ ] Slack Appデプロイ環境を作る(GCE+Nginx+PostgreSQL)
+
+### ブログ
+
+### その他
