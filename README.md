@@ -524,10 +524,29 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ## 0.31.12(2021/08)
 ### 目標
 
-* [ ] ブログ PV 3500超え
-* [ ] isucon に万全で臨む
+* [x] ブログ PV 3500超え
+* [x] isucon に万全で臨む
 * [ ] Slack Appデプロイ環境を作る(GCE+Nginx+PostgreSQL)
 
 ### ブログ
+* [Aurora レプリカ Auto Scaling のイベントをトリガーに Lambda を発火する](https://sadayoshi-tada.hatenablog.com/entry/2021/08/03/091546)
+* [Step Functions の Map を使って ECS Fargate の並列処理を構築した](https://sadayoshi-tada.hatenablog.com/entry/2021/08/10/093238)
+* [S3 バケット内オブジェクト削除のライフサイクルをタグでコントロールする](https://sadayoshi-tada.hatenablog.com/entry/2021/08/19/090545)
+* [Terraform で Secrets Manager に登録するレコードをコード内に直書きせず保存する](https://sadayoshi-tada.hatenablog.com/entry/2021/08/28/180507)
+* [ISUCON 11 予選に参加してきたので振り返る](https://sadayoshi-tada.hatenablog.com/entry/2021/08/29/172539)
+
+### その他
+* ISUCON 惨敗
+  * でも Go を学ぶモチベーションがあがった
+* ブログの PV 数が上がってきたから目標を上方修正
+* バイクの免許を取った
+## 0.32.0(2021/09)
+### 目標
+
+* [ ] ブログ PV 400超え
+* [ ] Slack Appデプロイ環境を作る(GCE+Nginx+PostgreSQL)
+
+### ブログ
+
 
 ### その他
