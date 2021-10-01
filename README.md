@@ -543,10 +543,26 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ## 0.32.0(2021/09)
 ### 目標
 
+* [x] ブログ PV 400超え
+* [x] Slack Appデプロイ環境を作る(GCE+Nginx+PostgreSQL)
+
+### ブログ
+* [k6 でシナリオテストをやってみた](https://sadayoshi-tada.hatenablog.com/entry/2021/09/03/232332)
+* [GCP の課金状況をモニタリングできるよう設定する](https://sadayoshi-tada.hatenablog.com/entry/2021/09/07/090000)
+* [RI と SP を使って AWS の利用料を落とす](https://sadayoshi-tada.hatenablog.com/entry/2021/09/13/090000)
+* [Amazon ES のバージョンを6.3 -> 6.8 にインプレースバージョンアップグレードする](https://sadayoshi-tada.hatenablog.com/entry/2021/09/15/080011)
+* [CI に Trivy を組み込んで脆弱性スキャンを行った結果を Slack に通知する](https://sadayoshi-tada.hatenablog.com/entry/2021/09/21/225036)  
+
+### その他
+* 副業が三つになってかなりきついけどかなりいい感じがする
+* 親に少しずつ物をあげたり、旅行に行って欲しくなった
+
+## 0.32.1(2021/10)
+### 目標
+
 * [ ] ブログ PV 400超え
 * [ ] Slack Appデプロイ環境を作る(GCE+Nginx+PostgreSQL)
 
 ### ブログ
-
 
 ### その他
