@@ -561,7 +561,7 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ### 目標
 
 * [ ] ブログ PV 400超え
-* [ ] Slack Appデプロイ環境を作る(GCE+Nginx+PostgreSQL)
+* [ ] 仕事で本番のコードにxrayを仕込んでいく(サブセグメントをし込めてないから仕込む)
 
 ### ブログ
 
