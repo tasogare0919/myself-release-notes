@@ -560,9 +560,27 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ## 0.32.1(2021/10)
 ### 目標
 
-* [ ] ブログ PV 400超え
+* [x] ブログ PV 4000超え
 * [ ] 仕事で本番のコードにxrayを仕込んでいく(サブセグメントをし込めてないから仕込む)
+  * やったけど間に合わなかった...次月に持ち越し
 
+### ブログ
+
+* [「データベースリライアビリティエンジニアリング」オンライン読書会を完走した！](https://sadayoshi-tada.hatenablog.com/entry/2021/10/27/090000)
+* [CodePipeline と CodeBuild で Git のタグを使ったリリースで切り戻し方を考えた](https://sadayoshi-tada.hatenablog.com/entry/2021/10/01/021840)
+* [Pinpoint で送ったメールの開封データイベントをS3 に保存する](https://sadayoshi-tada.hatenablog.com/entry/2021/10/09/165429)
+* [k6 のテスト実行を GitHub Actions で行う](https://sadayoshi-tada.hatenablog.com/entry/2021/10/13/090138)
+* [SSM Automation で使う Lambda の処理が突如失敗した事象の対処](https://sadayoshi-tada.hatenablog.com/entry/2021/10/23/174224)
+### その他
+* 5か月走り続けてきたオンライン読書会が終了してよかった
+* やんわり副業を辞めるように言われたので調整している、納得いかない(初めから言って欲しい)
+* 親に物をあげれてよかった
+## 0.32.2(2021/11)
+### 目標
+
+* [ ] ブログ PV 4500超え
+* [ ] 仕事で本番のコードにxrayを仕込んでいく(サブセグメントをし込めてないから仕込む)
+  
 ### ブログ
 
 ### その他
