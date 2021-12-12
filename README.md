@@ -578,9 +578,25 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ## 0.32.2(2021/11)
 ### 目標
 
-* [ ] ブログ PV 4500超え
-* [ ] 仕事で本番のコードにxrayを仕込んでいく(サブセグメントをし込めてないから仕込む)
+* [x] ブログ PV 4500超え => 4791pv
+* [ ] 仕事で本番のコードにxrayを仕込んでいく(サブセグメントをし込めてないから仕込む) => 検証はやったがセグメントまでいけなかった
   
+### ブログ
+* [redash v8 -> v10 にアップグレードをした](https://sadayoshi-tada.hatenablog.com/entry/2021/11/04/090000)
+* [Lambda を使って Elasticsearch のエイリアスとインデックスを更新する](https://sadayoshi-tada.hatenablog.com/entry/2021/11/13/142526)
+* [Lighthouse の実行結果を Mackerel で可視化する](https://sadayoshi-tada.hatenablog.com/entry/2021/11/15/090000)
+* [Mackerel のサービスメトリックの途切れ監視を設定する](https://sadayoshi-tada.hatenablog.com/entry/2021/11/27/002123)
+
+### その他
+* 諸々の会社事情で転職活動を開始
+  * 人との縁をとても感じた...
+* 転職と関連し副業も終了時期が決まったので残りやっていく
+* 会社を辞める時期が2022/01末に決まったので引き継ぎやら仕組み化をやってく
+
+## 0.32.3(2021/12)
+### 目標
+
+* [ ] ブログ PV 4000超え  
 ### ブログ
 
 ### その他
