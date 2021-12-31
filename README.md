@@ -596,7 +596,21 @@ https://dev.classmethod.jp/articles/practice-aws-cdk-book/
 ## 0.32.3(2021/12)
 ### 目標
 
-* [ ] ブログ PV 4000超え  
+* [x] ブログ PV 4000超え => 4240pv
+* [x] ブログ記事70記事でフィニッシュ
+* [x] 副業の着地点を最終日に決めてアウトプット
 ### ブログ
-
+* [AWS SAM の差分デプロイの課題を踏まえた改修をした](https://sadayoshi-tada.hatenablog.com/entry/2021/12/05/150021)
+* [redash のデータソースで Python を使ってみる](https://sadayoshi-tada.hatenablog.com/entry/2021/12/11/151118)
+* [AWS Organizations で作成した AWS アカウントのルートユーザーのメールアドレスを変更する](https://sadayoshi-tada.hatenablog.com/entry/2021/12/15/002130)
+* [Python を使ってサービスメトリクスを投稿して可視化する](https://sadayoshi-tada.hatenablog.com/entry/2021/12/26/121813)
+* [GitHub Actions の IAM ユーザーのクレデンシャルを IAM ロールに切り替えた時の経験をまとめる](https://sadayoshi-tada.hatenablog.com/entry/2021/12/27/081003)
+* [Amazon OpenSearch Service のスナップショットを別アカウントにリストアする](https://sadayoshi-tada.hatenablog.com/entry/2021/12/30/200616)
+* [2021年の振り返り](https://sadayoshi-tada.hatenablog.com/entry/2021/12/31/152326)
+* [Ruby on Rails のログを lograge/lograge-sql で JSON 化する](https://sadayoshi-tada.hatenablog.com/entry/2021/12/31/155015)
 ### その他
+* 転職でオファーをいただく(感謝)
+* 副業3つのうち2つが12月で終了した
+  * 本当に貴重な経験をさせていただき、感謝しかない
+* ブログがツイッターで投稿しなくてもアベレージ4000pvを超えることをしった
+  * 副業と転職でそれどころじゃなかったけどツイートすると5000くらい行くのかを翌年試したい
