@@ -49,3 +49,12 @@
 ## その他
 * LayerXに転職した
   * 一ヶ月があっという間に過ぎた...まずは色々と慣れる
+
+# 0.32.07(2022/04)
+## 目標
+* [ ] ブログのPV 5000以上を目指す
+
+## ブログ
+*  [Terraform AWS Provider v3 -> v4 へ移行するのに役立つツール『tfrefactor』を試してみる](https://sadayoshi-tada.hatenablog.com/entry/2022/04/03/165652)
+
+## その他
