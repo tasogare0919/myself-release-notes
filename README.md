@@ -88,6 +88,22 @@
 # 0.32.09(2022/06)
 ## 目標
 * [ ] ブログのPV 5000以上を目指す
+  * 7695pv
+
+## ブログ
+* [GitHub Actions のコードをモノレポで管理したいと思った時に呼び出し方を試した](https://sadayoshi-tada.hatenablog.com/entry/2022/06/03/011216)
+* [SageMaker から Amazon OpenSearch Service への接続方法を調べた](https://sadayoshi-tada.hatenablog.com/entry/2022/06/12/105720)
+* [RDS のパッチの有無を確認する方法](https://sadayoshi-tada.hatenablog.com/entry/2022/06/19/002700)
+* [AWS Lambda のデプロイを Terraform で行う](https://sadayoshi-tada.hatenablog.com/entry/2022/06/25/141832)
+* [Aurora の特定ユーザー接続検知をするために CloudWatch Logs サブスクリプションフィルターを使う](https://sadayoshi-tada.hatenablog.com/entry/2022/06/30/234756)
+
+## その他
+月間MVPに選ばれた
+
+# 0.32.10(2022/07)
+## 目標
+* [ ] 7~9月向け四半期目標を作る
+* [ ] 積ん読読破(3冊)
 
 ## ブログ
 * 
