@@ -102,10 +102,18 @@
 
 # 0.32.10(2022/07)
 ## 目標
-* [ ] 7~9月向け四半期目標を作る
+* [x] 7~9月向け四半期目標を作る
+  * 元気に目の前の仕事に楽しく向き合い、プライベートを豊かにする
 * [ ] 積ん読読破(3冊)
+  * [ ] ２冊進行中
+* [x] ブログのPV 5000以上を目指す
+  * 5150pv
 
 ## ブログ
-* 
+* [SendGrid のバウンスの発生を取得する](https://sadayoshi-tada.hatenablog.com/entry/2022/07/10/134037)
+* [SendGrid のバウンスの発生を Golang で取得する](https://sadayoshi-tada.hatenablog.com/entry/2022/07/16/143656)
+* [SendGrid のバウンスの発生を Golang で取得して Slack に通知する](https://sadayoshi-tada.hatenablog.com/entry/2022/07/23/174904)
+* [Terraform で Aurora の拡張モニタリングを特定環境で設定する](https://sadayoshi-tada.hatenablog.com/entry/2022/07/27/003646)
 
 ## その他
+新しくチームに人が入ってきて心が燃え尽きた状態から少し元気になった
