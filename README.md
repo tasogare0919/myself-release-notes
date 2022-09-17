@@ -123,13 +123,33 @@
 ## 目標
 * [ ] 積ん読読破(3冊)
   * [ ] ２冊進行中
-* [ ] ブログのPV 5000以上を目指す
+* [x] ブログのPV 5000以上を目指す
+  * 5569pv
 
 ## ブログ
 * [Datadog の APM をローカルから利用する](https://sadayoshi-tada.hatenablog.com/entry/2022/08/06/181807)
 * [AWS WAF で特定条件でブロックされたリクエストの発生でアラートを飛ばす](https://sadayoshi-tada.hatenablog.com/entry/2022/08/13/022035)
-
+* [Amazon OpenSearch Service のデータノードを Gravition にスペックアップする](https://sadayoshi-tada.hatenablog.com/entry/2022/08/16/235033)
+* [AWS CLI で cron イベントのあるイベント名と cron 詳細を抽出する](https://sadayoshi-tada.hatenablog.com/entry/2022/08/28/105029)
+* [Terraform で IAM Identity Center のインラインポリシーを設定した](https://sadayoshi-tada.hatenablog.com/entry/2022/08/31/204031)
 
 ## その他
 * 金髪にした(やりたいことをやった)
 * Monster BaSHにいく
+* 地味に5000pv超えを連発していて分析できてないけど嬉しい
+
+# 0.33.1(2022/09)
+## 目標
+* [ ] 積ん読読破(3冊)
+  * [ ] ２冊進行中
+* [ ] ブログのPV 5000以上を目指す
+
+## ブログ
+* [ecspresso をローカルにインストールして ECS デプロイをやってみる](https://sadayoshi-tada.hatenablog.com/entry/2022/09/11/162514)
+
+
+## その他
+* 会社の[ポッドキャスト](https://open.spotify.com/episode/7ddNbUPHUU1h0jgDh0MK5A?si=GqNsrCofT_WQM55oISDdvQ)に呼んでもらった
+* 33歳になった、過去最高の自分を更新し続けよう
+* 相変わらずヒィヒィいいながら仕事をしているものの、同僚のおかげでだいぶモチベーションは維持できている
+  * その分勉強しなきゃいけないこともキャッチアップもやれることはたくさんだからやる
