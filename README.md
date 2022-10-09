@@ -142,14 +142,34 @@
 ## 目標
 * [ ] 積ん読読破(3冊)
   * [ ] ２冊進行中
-* [ ] ブログのPV 5000以上を目指す
+* [x] ブログのPV 5000以上を目指す
+  * 5604pv
 
 ## ブログ
 * [ecspresso をローカルにインストールして ECS デプロイをやってみる](https://sadayoshi-tada.hatenablog.com/entry/2022/09/11/162514)
-
+* [ALB アクセスログの格納時の暗号化は KMS カスタマキーで行えるのか？](https://sadayoshi-tada.hatenablog.com/entry/2022/09/18/122049)
+* [AWS リソース名につけられる文字数を調べたのでサービス毎にまとめる](https://sadayoshi-tada.hatenablog.com/entry/2022/09/23/191508)
+* [Reusable workflows に Terraform 実行に必要な Secrets を渡す](https://sadayoshi-tada.hatenablog.com/entry/2022/09/30/235627)
 
 ## その他
 * 会社の[ポッドキャスト](https://open.spotify.com/episode/7ddNbUPHUU1h0jgDh0MK5A?si=GqNsrCofT_WQM55oISDdvQ)に呼んでもらった
 * 33歳になった、過去最高の自分を更新し続けよう
 * 相変わらずヒィヒィいいながら仕事をしているものの、同僚のおかげでだいぶモチベーションは維持できている
   * その分勉強しなきゃいけないこともキャッチアップもやれることはたくさんだからやる
+  
+# 0.33.2(2022/10)
+## 目標
+* [ ] 積ん読読破(3冊)
+  * [ ] ２冊進行中
+* [ ] ブログのPV 5000以上を目指す
+* [ ] IAM アクセスキーローテーション/GCP アクセスキーローテーションの仕組みを作る
+* [ ] 髪を金髪にする(2回め)
+* [ ] バイクで出かける予定を作る
+* [ ] ゼルダのコログの実を集める(一個)
+* [x] CBD 商品に挑戦する
+
+## ブログ
+* [AWS WAF のスコープダウンステートメントを使ってブロックされたリクエストを通す](https://sadayoshi-tada.hatenablog.com/entry/2022/10/05/235119)
+
+
+## その他
