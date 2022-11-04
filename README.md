@@ -161,15 +161,36 @@
 ## 目標
 * [ ] 積ん読読破(3冊)
   * [ ] ２冊進行中
-* [ ] ブログのPV 5000以上を目指す
+* [x] ブログのPV 5000以上を目指す
+  * 5761pv
 * [ ] IAM アクセスキーローテーション/GCP アクセスキーローテーションの仕組みを作る
-* [ ] 髪を金髪にする(2回め)
-* [ ] バイクで出かける予定を作る
-* [ ] ゼルダのコログの実を集める(一個)
+* [x] 髪を金髪にする(2回め)
+* [x] バイクで出かける予定を作る
+* [x] ゼルダのコログの実を集める(一個)
 * [x] CBD 商品に挑戦する
 
 ## ブログ
 * [AWS WAF のスコープダウンステートメントを使ってブロックされたリクエストを通す](https://sadayoshi-tada.hatenablog.com/entry/2022/10/05/235119)
+* [AWS の特定タグが付けられているリソースを抽出する](https://sadayoshi-tada.hatenablog.com/entry/2022/10/16/023022)
+* [Aurora Serverless に IAM 認証で接続を試した](https://sadayoshi-tada.hatenablog.com/entry/2022/10/21/224151)
+* [Aurora Severless V2 の DB ユーザーに GRANT ALL PRIVILEGES をするとエラーが出たので対処をまとめた](https://sadayoshi-tada.hatenablog.com/entry/2022/10/30/101435)
+
+## その他
+* 体調悪くて通院してたので色々と相談した
+* Terraform ModuleやFunctionsのこと色々学んだけど記法についてメモ残していかないと使い回せないなと思ったので残す
+
+# 0.33.2(2022/11)
+## 目標
+* [ ] 積ん読読破(3冊)
+  * [ ] ２冊進行中
+* [ ] ブログのPV 5000以上を目指す
+  * [ ] IAM アクセスキーローテーション/GCP アクセスキーローテーションの仕組みを作る
+  * [ ] Terraform provider MySQL の記事を入れる
+  * [ ] GitHub Actions セルフホストランナーの記事を入れる
+* [ ] 経験した Terraform Functions の記法をまとめる
+* [ ] 
+
+## ブログ
 
 
 ## その他
