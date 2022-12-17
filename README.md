@@ -181,14 +181,25 @@
 
 # 0.33.3(2022/11)
 ## 目標
-* [ ] 積ん読読破(3冊)
-  * [ ] ２冊進行中
+* [x] 積ん読読破(2冊)
+  * [x] ２冊進行中
+* [x] ブログのPV 5000以上を目指す
+  * [ ] 6075pv
+
+## ブログ
+* [RDS の IAM 認証で使うトークンにホスト名を指定できるか？](https://sadayoshi-tada.hatenablog.com/entry/2022/11/04/121330)
+* [MySQL の構成管理を Terraform で行う](https://sadayoshi-tada.hatenablog.com/entry/2022/11/13/115533)
+* [EventBridge のテストイベントを試すコマンドを使ってみた](https://sadayoshi-tada.hatenablog.com/entry/2022/11/20/124459)
+* [別アカウントで取得した ACM の DNS 認証を Route53 で行う](https://sadayoshi-tada.hatenablog.com/entry/2022/11/25/133659)
+
+## その他
+* 相談した結果、色々戻った
+* 積ん読していた本を読めたのは良かった
+
+# 0.33.4(2022/12)
+## 目標
+* [ ] 積ん読読破(1冊)
 * [ ] ブログのPV 5000以上を目指す
-  * [ ] IAM アクセスキーローテーション/GCP アクセスキーローテーションの仕組みを作る
-  * [ ] Terraform provider MySQL の記事を入れる
-  * [ ] GitHub Actions セルフホストランナーの記事を入れる
-* [ ] 経験した Terraform Functions の記法をまとめる
-* [ ] 
 
 ## ブログ
 
