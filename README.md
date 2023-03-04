@@ -11,7 +11,7 @@
 * [Session Manager のログ出力形式をまとめる](https://sadayoshi-tada.hatenablog.com/entry/2022/01/26/093538)
 * [CloudWatch Events の定数を使って Lambda の処理を分岐させる](https://sadayoshi-tada.hatenablog.com/entry/2022/01/31/090000)
 
-## その他
+## 所感
 * スナックミー退職
 * 転職先も決まってよかった
 
@@ -32,7 +32,7 @@
 * [AppSync と関連サービスの使い方をハンズオンで学ぶ『AWS AppSync immersion day workshop』](https://sadayoshi-tada.hatenablog.com/entry/2022/02/14/093336)
 * [リポジトリに載せたくない秘匿情報をチェックする Secretlint を触った](https://sadayoshi-tada.hatenablog.com/entry/2022/02/21/083000)
 
-## その他
+## 所感
 * 色々勉強したり読書できた月
 
 # 0.32.07(2022/03)
@@ -46,7 +46,7 @@
 * [条件ごとで Terraform によるリソース作成を行う](https://sadayoshi-tada.hatenablog.com/entry/2022/03/20/114859)
 * [Datadog で NO DATA ステータスを通知するオプションを調べた](https://sadayoshi-tada.hatenablog.com/entry/2022/03/26/184648)
 
-## その他
+## 所感
 * LayerXに転職した
   * 一ヶ月があっという間に過ぎた...まずは色々と慣れる
 
@@ -61,7 +61,7 @@
 *  [terraform-provider-aws v4.9.0 のリリースで破壊的な S3 の変更がなくなったと聞いたので試してみた](https://sadayoshi-tada.hatenablog.com/entry/2022/04/16/143610)
 *  [Security Hub から通知された『Lambda function policies should prohibit public access』に対応する](https://sadayoshi-tada.hatenablog.com/entry/2022/04/23/051641)
 
-## その他
+## 所感
 * 転職して2ヶ月がたった
   * 基本的な業務はこなれてきたきたが、自分が関わってない設定や方針が曖昧なので整理したり確認する
 
@@ -78,7 +78,7 @@
 *  [プライベートリポジトリで自作 GitHub Actions を動作させるために必要な設定](https://sadayoshi-tada.hatenablog.com/entry/2022/05/20/025350)
 *  [GitHub Actions を初めて自作したので学んだことをまとめる](https://sadayoshi-tada.hatenablog.com/entry/2022/05/28/155638)
 
-## その他
+## 所感
 * 転職して3ヶ月がたった
   * 定常業務は概ねこなせるが、定型業務の自動化、現状分析・即してないような部分を改善していったりせんと自分の色を出せないのでやる
     * メンタル的に自己肯定感が低くあんまりいい調子ではないのは意識的に改善しないとなと思う
@@ -97,7 +97,7 @@
 * [AWS Lambda のデプロイを Terraform で行う](https://sadayoshi-tada.hatenablog.com/entry/2022/06/25/141832)
 * [Aurora の特定ユーザー接続検知をするために CloudWatch Logs サブスクリプションフィルターを使う](https://sadayoshi-tada.hatenablog.com/entry/2022/06/30/234756)
 
-## その他
+## 所感
 月間MVPに選ばれた
 
 # 0.32.10(2022/07)
@@ -115,7 +115,7 @@
 * [SendGrid のバウンスの発生を Golang で取得して Slack に通知する](https://sadayoshi-tada.hatenablog.com/entry/2022/07/23/174904)
 * [Terraform で Aurora の拡張モニタリングを特定環境で設定する](https://sadayoshi-tada.hatenablog.com/entry/2022/07/27/003646)
 
-## その他
+## 所感
 * 新しくチームに人が入ってきて心が燃え尽きた状態から少し元気になった
 * 初めてフジロックにいった、バチクソよかった
 
@@ -133,7 +133,7 @@
 * [AWS CLI で cron イベントのあるイベント名と cron 詳細を抽出する](https://sadayoshi-tada.hatenablog.com/entry/2022/08/28/105029)
 * [Terraform で IAM Identity Center のインラインポリシーを設定した](https://sadayoshi-tada.hatenablog.com/entry/2022/08/31/204031)
 
-## その他
+## 所感
 * 金髪にした(やりたいことをやった)
 * Monster BaSHにいく
 * 地味に5000pv超えを連発していて分析できてないけど嬉しい
@@ -151,7 +151,7 @@
 * [AWS リソース名につけられる文字数を調べたのでサービス毎にまとめる](https://sadayoshi-tada.hatenablog.com/entry/2022/09/23/191508)
 * [Reusable workflows に Terraform 実行に必要な Secrets を渡す](https://sadayoshi-tada.hatenablog.com/entry/2022/09/30/235627)
 
-## その他
+## 所感
 * 会社の[ポッドキャスト](https://open.spotify.com/episode/7ddNbUPHUU1h0jgDh0MK5A?si=GqNsrCofT_WQM55oISDdvQ)に呼んでもらった
 * 33歳になった、過去最高の自分を更新し続けよう
 * 相変わらずヒィヒィいいながら仕事をしているものの、同僚のおかげでだいぶモチベーションは維持できている
@@ -175,7 +175,7 @@
 * [Aurora Serverless に IAM 認証で接続を試した](https://sadayoshi-tada.hatenablog.com/entry/2022/10/21/224151)
 * [Aurora Severless V2 の DB ユーザーに GRANT ALL PRIVILEGES をするとエラーが出たので対処をまとめた](https://sadayoshi-tada.hatenablog.com/entry/2022/10/30/101435)
 
-## その他
+## 所感
 * 体調悪くて通院してたので色々と相談した
 * Terraform ModuleやFunctionsのこと色々学んだけど記法についてメモ残していかないと使い回せないなと思ったので残す
 
@@ -192,7 +192,7 @@
 * [EventBridge のテストイベントを試すコマンドを使ってみた](https://sadayoshi-tada.hatenablog.com/entry/2022/11/20/124459)
 * [別アカウントで取得した ACM の DNS 認証を Route53 で行う](https://sadayoshi-tada.hatenablog.com/entry/2022/11/25/133659)
 
-## その他
+## 所感
 * 相談した結果、色々戻った
 * 積ん読していた本を読めたのは良かった
 
@@ -202,9 +202,18 @@
 * [x] ブログのPV 5000以上を目指す
 
 ## ブログ
+* [CloudFront のセキュリティヘッダーの設定を試した](https://sadayoshi-tada.hatenablog.com/entry/2022/12/03/165551)
+* [アカウント跨ぎでの CloudTrail のログを Athena で検索する](https://sadayoshi-tada.hatenablog.com/entry/2022/12/11/161003)
+* [KMS を利用をしている IAM ロールを抽出する](https://sadayoshi-tada.hatenablog.com/entry/2022/12/17/134231)
+* [Athena のクエリ結果をダウンロードした CSV が文字化けした時の対処](https://sadayoshi-tada.hatenablog.com/entry/2022/12/24/140720)
+* [2022年の振り返り](https://sadayoshi-tada.hatenablog.com/entry/2022/12/29/095951)
+* [AWS Lambda + Go で初歩的なミスをまとめる](https://sadayoshi-tada.hatenablog.com/entry/2022/12/31/150813)
 
+## 所感
 
-## その他
+>仕事ばかりでチャレンジが過去数年で見ても少なかった気がするため,不完全燃焼感があります.来年はやる気がまったくないって期間を極力少なくして今年の悔しい気持ちを変えていきたいです.
+
+この気持ちを持ち続ける一年にする
 
 # 0.33.5(2023/01)
 ## 目標
@@ -212,6 +221,25 @@
   * [ ] 5961pv
 
 ## ブログ
+* [EventBridge Scheduler で Lambda にパラメーターを渡してスケジュール実行する](https://sadayoshi-tada.hatenablog.com/entry/2023/01/04/214156)
+* [様々なインフラストラクチャの描画ツールである 『Cartography』 を使ってみた](https://sadayoshi-tada.hatenablog.com/entry/2023/01/15/032038)
+* [CloudWatch Metrics Streams を使って Datadog に選択したメトリクスを送る](https://sadayoshi-tada.hatenablog.com/entry/2023/01/21/174038)
+* [静的サイトジェネレーターの『Astro』で Hello,World! のページを生成してみた](https://sadayoshi-tada.hatenablog.com/entry/2023/01/28/230510)
+* [Lambda と EventBridge でリクエストを投げる定期処理を実現する](https://sadayoshi-tada.hatenablog.com/entry/2023/01/31/211613)
 
+## 所感
+* 1つ運用改善をできた、よかった
 
-## その他
+# 0.33.6(2023/02)
+## 目標
+* [ ] ブログのPV 6000以上を目指す
+  * [x] 6540 pv
+
+## ブログ
+* [AWS Backup のバックアップジョブ失敗を Slack に通知する](https://sadayoshi-tada.hatenablog.com/entry/2023/02/11/142153)
+* [Python で RDS に格納されている各種ログをダウンロードする](https://sadayoshi-tada.hatenablog.com/entry/2023/02/19/145029)
+* [RDS ログを S3 にアップロードする Python スクリプトを Docker 上で実行する](https://sadayoshi-tada.hatenablog.com/entry/2023/02/25/110654)
+
+## 所感
+* 現職勤続１年が突破した
+* 仕事の中でしかかっていたものがアウトプットして前進してきたため、気持ちがかなり前向きになった
