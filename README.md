@@ -246,10 +246,75 @@
 
 # 0.33.7(2023/03)
 ## 目標
-* [ ] ブログのPV 6000以上を目指す
-  * [x] 6540 pv
+* [x] ブログのPV 6000以上を目指す
+  * 8150 pv
 
 ## ブログ
+* [RDS ログを S3 にアップロードする Python スクリプトを ECS で実行する](https://sadayoshi-tada.hatenablog.com/entry/2023/03/03/013215)
+* [DownloadCompleteLogFile を定期実行した時に遭遇した事象についてまとめる](https://sadayoshi-tada.hatenablog.com/entry/2023/03/10/225118)
+* [Terraform で SQS のメインキューとデッドレターキューを同時に作成する時ハマったことと解決策をまとめる](https://sadayoshi-tada.hatenablog.com/entry/2023/03/18/122658)
+* [プライベートリポジトリの reusable workflows を共有して使う](https://sadayoshi-tada.hatenablog.com/entry/2023/03/25/181943) 
 
+# 0.33.8(2023/04)
+## 目標
+* [x] ブログのPV 6000以上を目指す
+  * 5942 pv
+
+## ブログ
+* [RDS ログを S3 にアップロードの定期実行で運用中に発生した課題への対策をまとめる](https://sadayoshi-tada.hatenablog.com/entry/2023/04/01/004009)
+* [Terraform を使って Azure のリソースグループを作る](https://sadayoshi-tada.hatenablog.com/entry/2023/04/08/131858)
+* [Terraform で Aurora のインスタンスタイプを変更しようとしたら反映されなかった時の対応](https://sadayoshi-tada.hatenablog.com/entry/2023/04/15/140704)
+* [S3 に入れた Aurora の監査ログを Athena でクエリを行う](https://sadayoshi-tada.hatenablog.com/entry/2023/04/21/195935)
+* [EventBridge Rules で指定した ECS タスクのイベントをトリガーに Step Functions から Athena にクエリを実行する](https://sadayoshi-tada.hatenablog.com/entry/2023/04/29/164203)
+
+# 0.33.9(2023/05)
+## 目標
+* [x] ブログのPV 6000以上を目指す
+  * 6436 pv
+
+## ブログ
+* [1Password の 1Password Shell Plugins を使って AWS CLI を操作する](https://sadayoshi-tada.hatenablog.com/entry/2023/05/07/174709)
+* [VPC 内で起動する OpenSearch Serverless を AWS CLI で構築する](https://sadayoshi-tada.hatenablog.com/entry/2023/05/13/194247)
+* [AWS Config のコスト削減をしていくためにやってみたことをまとめる](https://sadayoshi-tada.hatenablog.com/entry/2023/05/21/141817)
+* [AWS Cost Usage Report を BigQuery に入れて Locker Studio で可視化する](https://sadayoshi-tada.hatenablog.com/entry/2023/05/27/134148)
+
+# 0.33.9(2023/06)
+## 目標
+* [x] ブログのPV 6000以上を目指す
+  * 7162 pv
+* [ ] ゲームの配信をTwitchでやってみる
+  * PS4からTwitch配信やろうと思ったら禁止区域とやらにひっかかったorz
+* [x] 自宅で燻製に挑戦する
+* [ ] 積読消化(3冊)
+  * 2冊までになった
+* [x] 積立NISAの口座開設したから投資始める
+* [ ] lofi-hiphop作りをやってみる
+
+## ブログ
+* [OpenSearch Serverless のダッシュボードアクセスを Azure AD の SAML 経由で行う~ユーザー編~](https://sadayoshi-tada.hatenablog.com/entry/2023/06/01/235931)
+* [OpenSearch Serverless のダッシュボードアクセスを Azure AD の SAML 経由で行う~グループ編~](https://sadayoshi-tada.hatenablog.com/entry/2023/06/07/222208)
+* [AWS Config のリソース追跡を除外するアップデートが有効なリージョンを調査した](https://sadayoshi-tada.hatenablog.com/entry/2023/06/16/222555)
+* [CloudFront のアクセスログが S3 に出てない時に対処したことをまとめる](https://sadayoshi-tada.hatenablog.com/entry/2023/06/20/093742)
+* [Terraform AWS Provider で初めて Provider がクラッシュする事態に遭遇した時の対処をまとめる](https://sadayoshi-tada.hatenablog.com/entry/2023/06/30/065515)
+
+## 所感
+* このリポジトリの更新さぼりすぎた...ちゃんとやる
+* かなり久しぶりにChallenge-every-monthの目標設定と挑戦ができた
+
+# 0.33.10(2023/07)
+## 目標
+* [ ] ブログのPV 6000以上を目指す && 平日に1記事出す
+  * pv
+* [ ] ゲームの配信をTwitchでやってみる
+  * PS4からTwitch配信やろうと思ったら禁止区域とやらにひっかかったorz
+* [ ] 積読消化(2冊)
+* [ ] 自分のプロフィールページをCloudflareを使って作る
+* [ ] 自作Webアプリケーション開発のアイデアとサービスの設計する
+* [ ] NISAの設定を3万にする
+* [ ] 楽天証券で金の積立を設定する
+* [ ] 7~9月の仕事とプライベートのやりたいことを整理する
+
+## ブログ
+* [AWS Config の変更記録を除外するリソース登録を Terraform でやってみた](https://sadayoshi-tada.hatenablog.com/entry/2023/07/04/231914)
 
 ## 所感
