@@ -303,18 +303,59 @@
 
 # 0.33.10(2023/07)
 ## 目標
-* [ ] ブログのPV 6000以上を目指す && 平日に1記事出す
-  * pv
+* [x] ブログのPV 6000以上を目指す && 平日に1記事出す
+  * 6223pv
 * [ ] ゲームの配信をTwitchでやってみる
   * PS4からTwitch配信やろうと思ったら禁止区域とやらにひっかかったorz
-* [ ] 積読消化(2冊)
-* [ ] 自分のプロフィールページをCloudflareを使って作る
-* [ ] 自作Webアプリケーション開発のアイデアとサービスの設計する
-* [ ] NISAの設定を3万にする
-* [ ] 楽天証券で金の積立を設定する
-* [ ] 7~9月の仕事とプライベートのやりたいことを整理する
+* [x] 積読消化(2冊)
+* [x] 自分のプロフィールページをCloudflareを使って作る
+* [x] 自作Webアプリケーション開発のアイデアとサービスの設計する
+* [x] NISAの設定を3万にする
+* [x] 7~9月の仕事とプライベートのやりたいことを整理する
 
 ## ブログ
 * [AWS Config の変更記録を除外するリソース登録を Terraform でやってみた](https://sadayoshi-tada.hatenablog.com/entry/2023/07/04/231914)
+* [AWS Cost Usage Report を定期的に Storage Transfer Service で Google Cloud Service に転送するのを Terraform で設定する](https://sadayoshi-tada.hatenablog.com/entry/2023/07/14/075742)
+* [AWS CLI で AWS WAF にタグを置き換え時に遭遇したエラーに対処する方法をまとめる](https://sadayoshi-tada.hatenablog.com/entry/2023/07/21/180343)
+* [ALB のリスナーに設定した OIDC 認証の証明書を更新する](https://sadayoshi-tada.hatenablog.com/entry/2023/07/27/203312)
 
 ## 所感
+* ずっとためていたことができた
+
+# 0.33.11(2023/08)
+## 目標
+* [x] ブログのPV 6000以上を目指す && 平日に1記事出す
+  * 6362pv
+* [ ] 63kg台で大会に出る
+  * 64.1kgだった
+
+## ブログ
+* [Terraform で IAM Identity Center のカスタムロール追加とグループの関連付けを行う](https://sadayoshi-tada.hatenablog.com/entry/2023/08/04/194543)
+* [クロスアカウントでの IAM Access Analizer を実行して Administrator の操作から IAM ポリシーを生成する](https://sadayoshi-tada.hatenablog.com/entry/2023/08/10/222651)
+* [1Password に SSH 鍵を登録して GitHub の操作を行うようにする](https://sadayoshi-tada.hatenablog.com/entry/2023/08/27/140806)
+* [IAM Identity Center のロールで発行される一時認証情報をaws-sso-go 経由で 1Password に入れて利用する](https://sadayoshi-tada.hatenablog.com/entry/2023/08/30/212751)
+
+## 所感
+* 3年ぶりにボディコンテストに出られた良かった
+* 減量をすると仕事のパフォーマンスが良いと言われるので継続的に出ていくのがいいのかもしれない
+
+# 0.34.1(2023/09)
+## 目標
+* [x] ブログのPV 6000以上を目指す && 平日に1記事出す
+  * 7462pv
+* [x] SadServersに挑戦する(まずは1個終わらせる)
+* [x] aws-sso-goにPR出してみる
+* [x] 4半期やりたいことを考える
+* [x] 4半期振り返りを入れる
+* [ ] 簿記3級合格する
+* [ ] ストリクトカールで40kg以上を挙げる
+
+## ブログ
+* [AWS CLI の SSO Login の挙動再学習~更新不可のレガシー設定と自動更新によるトークンプロバイダーの設定~](https://sadayoshi-tada.hatenablog.com/entry/2023/09/09/133148)
+* [EventBridge を経由して AWS Chatbot のカスタムメッセージを通知する](https://sadayoshi-tada.hatenablog.com/entry/2023/09/15/230034)
+* [Terraform で IAM Identity Center のCustomer Managed Policies を定義する
+](https://sadayoshi-tada.hatenablog.com/entry/2023/09/24/102639)
+
+## 所感
+* 34歳になったから気持ち新たに頑張っていく
+* 簿記やストリクトカールといった今までやったことないことを挑戦できたのもよかった
