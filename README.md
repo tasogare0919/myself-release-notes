@@ -353,9 +353,32 @@
 ## ブログ
 * [AWS CLI の SSO Login の挙動再学習~更新不可のレガシー設定と自動更新によるトークンプロバイダーの設定~](https://sadayoshi-tada.hatenablog.com/entry/2023/09/09/133148)
 * [EventBridge を経由して AWS Chatbot のカスタムメッセージを通知する](https://sadayoshi-tada.hatenablog.com/entry/2023/09/15/230034)
-* [Terraform で IAM Identity Center のCustomer Managed Policies を定義する
-](https://sadayoshi-tada.hatenablog.com/entry/2023/09/24/102639)
+* [Terraform で IAM Identity Center のCustomer Managed Policies を定義する](https://sadayoshi-tada.hatenablog.com/entry/2023/09/24/102639)
 
 ## 所感
 * 34歳になったから気持ち新たに頑張っていく
 * 簿記やストリクトカールといった今までやったことないことを挑戦できたのもよかった
+
+# 0.34.2(2023/10)
+## 目標
+* [x] ブログのPV 6000以上を目指す && 平日に1記事出す
+  * 6013pv
+* [ ] 積読消化(5冊)
+  * [ ] 4冊で終わった
+* [ ] バイクショップで遠出用のグッズを買う&予定を作る
+* [x] トレーニングの次の大会に向けてのロードマップを作る&コーチとすり合わせる
+* [x] 簿記3級リベンジの日を決める
+* [ ] 過去問のisuconを月に1度解く
+* [ ] 簿記3級の練習問題を4問解く(週1ペースでとく習慣作り)
+
+## ブログ
+* [Linux のトラブルシュート問題集の SadServers に取り組んでみた](https://sadayoshi-tada.hatenablog.com/entry/2023/10/01/024548)
+* [terraform で AWS の SSO 認証ができない事象の対処法](https://sadayoshi-tada.hatenablog.com/entry/2023/10/06/001405)
+* [Datadog の Watchdog のモニターを使えるようになったので試してみた](https://sadayoshi-tada.hatenablog.com/entry/2023/10/14/021743)
+* [Datadog の Watchdog モニターを Terraform で作る](https://sadayoshi-tada.hatenablog.com/entry/2023/10/18/213716)
+* [CodePipeline にやってきた V2 のアップデートをさらいつつ試してみた](https://sadayoshi-tada.hatenablog.com/entry/2023/10/27/014422)
+
+## 所感
+* 会社で評価が上がってよかった
+* 次の大会の大まかなロードマップを引けたのはよかった
+* 本を読むのが4冊だったけど、気合で4冊いけるとわかった
