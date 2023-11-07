@@ -15,7 +15,7 @@ jobs:
         id : date
         run: echo "::set-output name=date::$(date + '%Y/%m/%d')"
       - name: Create New Issue
-        uses: imjohnbo/issue-bot@v2.3
+        uses: imjohnbo/issue-bot@v3.4
         with:
           title: Monthly Tasks - ${{ steps.date.outputs.date }}
           pinned: false
