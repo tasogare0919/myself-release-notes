@@ -382,3 +382,42 @@
 * 会社で評価が上がってよかった
 * 次の大会の大まかなロードマップを引けたのはよかった
 * 本を読むのが4冊だったけど、気合で4冊いけるとわかった
+
+# 0.34.3(2023/11)
+## 目標
+* [x] ブログのPV 6000以上を目指す && 平日に1記事出す
+  * 7135pv
+* [ ] isunarabeを解く
+* [x] 積読消化(4冊)
+* [x] 簿記3級の練習問題を4問解く
+
+## ブログ
+* [マイクロソフトのシニアソフトウェアエンジニアである、牛尾 剛さんの『世界一流エンジニアの思考法』を読んだ](https://sadayoshi-tada.hatenablog.com/entry/2023/11/05/090250)
+* [Terraform を使って CloudFront の Managed Prefix List を使って ALB アクセスを定義する]((https://sadayoshi-tada.hatenablog.com/entry/2023/11/12/095426))
+* [Terraform で CloudFront の署名付き URL をやるための設定をまとめる](https://sadayoshi-tada.hatenablog.com/entry/2023/11/17/032329)
+* [CloudFront でカスタムオリジンとして ALB を指定した時に注意すべきこと](https://sadayoshi-tada.hatenablog.com/entry/2023/11/24/114650)
+
+## 所感
+* isunarabe、2か月連続で時間避けてないのまずい...土曜日にAWSのアプデをさらうのと一緒にやる
+* 簿記3級の問題集、解けなくてもとりあえずやるがおっくうだったが進められてよかった。問題集を解く間隔を短くしていく
+
+
+# 0.34.4(2023/12)
+## 目標
+* [x] ブログのPV 6000以上を目指す && 平日に1記事出す
+  * 6747pv
+* [x] 積読を2冊消化する
+* [x] アドベントカレンダー2本出して、LT1本をやりきる
+* [ ] 簿記3級の試験を12/24に受けられるように勉強する
+  * 泣きながらリスケした
+
+## ブログ
+* [Aurora AutoScaling をスケジュール実行するために Terraform で設定する](https://sadayoshi-tada.hatenablog.com/entry/2023/12/02/170641)
+* [AWS Backup で Aurora のバックアップの取得と別リージョンにコピーする](https://sadayoshi-tada.hatenablog.com/entry/2023/12/08/233250)
+* [AWS Backup restore testing を設定・実行する](https://sadayoshi-tada.hatenablog.com/entry/2023/10/14/021743)
+* [トレノケ雲の会 mod.12 に『バックアップのリストア検証が可能な AWS Backup Restore testing を使ってみた』で登壇した](https://sadayoshi-tada.hatenablog.com/entry/2023/12/23/162756)
+* [2023年の振り返り](https://sadayoshi-tada.hatenablog.com/entry/2023/12/31/143114)
+
+## 所感
+* かなり久々に登壇できてよかった
+* アドカレもちゃんと出せてよかった
