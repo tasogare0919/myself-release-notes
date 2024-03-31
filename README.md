@@ -38,3 +38,17 @@
 
 # 0.34.7(2024/03)
 ## 目標
+* [ ] ブログのPV 7000以上を目指す
+  * pv
+
+## ブログ
+* [『TechBrew in 東京 〜CI/CDパイプライン改善 最適化の取り組み〜』に参加して各社のCI/CDパイプラインの取組みを学んだ](https://sadayoshi-tada.hatenablog.com/entry/2024/03/02/114456)
+* [AWS CLI を使用して SQS のメッセージ滞留数の統計情報を取得](https://sadayoshi-tada.hatenablog.com/entry/2024/03/09/011509)
+* [Aurora のデッドロック情報を抽出して CloudWatch Logs に出力する](https://sadayoshi-tada.hatenablog.com/entry/2024/03/15/192631)
+* [RDS Blue/Green Deployment を使って Aurora MySQL 5.7 → 8.0 に移行を試した](https://sadayoshi-tada.hatenablog.com/entry/2024/03/24/024414)
+* [データベース CI/CD ツールの Bytebase を ECS Fargate でホストしてみる 🐳](https://sadayoshi-tada.hatenablog.com/entry/2024/03/30/003516)
+
+## 所感
+* 仕事は自分の中でずっとあった、新しい領域に取り組めていない感があったけど、自分で手を上げて取り組めてるのと、長年のトイルを潰しにいけてるのは良い傾向と思うのでこの両輪を回すことを取り組んでいこう
+* 年始に立てた目標に対しての進捗が悪いからその計画を立て直す
+* 先月のBedrockの取り組みから役立てそうな場所があったからやってみる
