@@ -21,12 +21,9 @@ jobs:
           app_id: ${{ secrets.APP_ID }}
           private_key: ${{ secrets.PRIVATE_KEY }}
       - name: Create New Issue
-        uses: imjohnbo/issue-bot@v3.4
-        with:
-          title: Monthly Tasks - ${{ steps.date.outputs.date }}
-          pinned: false
-          close-previous: true
-          template: ".github/ISSUE_TEMPLATE/monthyreview.md"
-          token: ${{ env.GITHUB_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ steps.generate.outputs.token }}
+        run: |
+          gh issue create \
+          --title "Monthly Tasks - ${{ steps.date.outputs.date }}" \
+          --body "$(cat ./.github/ISSUE_TEMPLATE/monthyreview.md  | tail -n +8)"
