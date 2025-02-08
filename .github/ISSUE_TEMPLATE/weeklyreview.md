@@ -1,6 +1,6 @@
 ---
-name: 週報
-about: 週報
+name: 週報template
+about: 週報書いて振り返りを行う
 title: '週報'
 labels: 'tasks' 
 assignees: 'tasogare0919'

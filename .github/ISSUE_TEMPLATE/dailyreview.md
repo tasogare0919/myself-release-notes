@@ -1,5 +1,5 @@
 ---
-name: 日報
+name: 日報template
 about: 日報書いて振り返りを行う
 title: '日報'
 labels: 'tasks' 
