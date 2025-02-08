@@ -1,5 +1,5 @@
-name : create_monthlyreview
-on: 
+name: create_monthlyreview
+on:
   schedule:
     - cron: "5 0 1 * *"
   workflow_dispatch:
@@ -12,14 +12,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Get Current Date
-        id : date
+        id: date
         run: echo "::set-output name=date::$(date + '%Y/%m/%d')"
+      - name: Generate GitHub Apps token
+        id: generate
+        uses: tibdex/github-app-token@v1
+        with:
+          app_id: ${{ secrets.APP_ID }}
+          private_key: ${{ secrets.PRIVATE_KEY }}
       - name: Create New Issue
         uses: imjohnbo/issue-bot@v3.4
         with:
           title: Monthly Tasks - ${{ steps.date.outputs.date }}
           pinned: false
           close-previous: true
-          template: ".github/ISSUE_TEMPLATE/monthlyreview.md"
+          template: ".github/ISSUE_TEMPLATE/weeklyreview.md"
+          token: ${{ env.TOKEN }}
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN_KEY }}
+          TOKEN: ${{ steps.generate.outputs.token }}
